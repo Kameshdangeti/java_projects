@@ -2,8 +2,8 @@
                                               Oracle Certified Associate Test (1Z0-808)
 
 
-       Section-1.                                                                                                   T-->Theory topics.
-                                                                                                                cname-->Name of the class.
+       Section-1.                                                                                         T-->Theory topics.
+                                                                                                          cname-->Name of the class.
 --->JAVA BASICS:-   
                                                
 a.)Define Scope of variable.(T)                                                                                package-->Java_Basics.
@@ -23,7 +23,7 @@ e.)Compare and contrast the features and components of java such as,platform ind
        Section-2.
 
 --->WORKING WITH JAVA DATATYPES:- 
-                                                                                                                package-->Working_With_java_datatypes.       
+                                                                                                               package-->Working_With_java_datatypes.       
 a.)Declare and Initialize variables(Including Casting and primitive Data types).
    (cname:-Declaring_and_Initializing_variable.java,Casting_Primittive_Datatypes.java)
 
@@ -53,9 +53,22 @@ d.)Use a Switch Statement.(cname:-Switch_Statement.java)
       Section-4.
                                                                                               
 --->CREATING AND USING ARRAYS:-
-                                                                                                                  package-->Creating_And_Using_Arrays
+                                                                                                               package-->Creating_And_Using_Arrays
 a.)Declare,Istantiate,Initialize and use of One-Dimensional Array.(cname:-One_Dimensional_Array.java) 
 
 b.)Declare,Instantiate,Initialize and use of Multi-Dimensional Array.(cname:-Multi_Dimensional_Array.java)                                                                                    
 
 
+       Section-5.
+                                                                                                                                                
+--->USING LOOP CONSTRUCTORS:-
+                                                                                                               package-->Using_LoopingConstructors
+a.)Create And Use While Loops.(cname:-Create_and_use_While_loop.java,Whileloop2.java)
+
+b.)Create And Use for Loops including the Enhanced for Loop.(cname:-Create_and_Use_For_Loop.java,Enhanced_For_Loop.java)
+
+c.)Create and Use do/while Loop.(cname:-Create_And_Use_of_DoWhile_Loop.java)   
+
+d.)Use Break And Continue.(cname:-Use_Break_and_Continue.java)   
+
+e.)Compare Looping Constructs.(T)                                                                                  
