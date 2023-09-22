@@ -75,8 +75,8 @@ e.)Compare Looping Constructs.(T)
 
 
        Section-6.
-                                                                                                                package-->Encapsulaion.
---->WORKING WITH METHODS AND ENCAPSULATION:-                                                                              Access_Modifiers.
+                                                                                                               package-->Encapsulaion.
+--->WORKING WITH METHODS AND ENCAPSULATION:-                                                                             Access_Modifiers.
                                                                                                                          
 a.)Create Methods With Arguments and return values,Including Overloaded Methods.
    (cname:-Create_Methods_with_Arguments_And_Return_Values.java)       
@@ -92,3 +92,20 @@ e.)Apply Encapsulation Prinsiple to a class.(Cname:-Calender_Enc.java,Enc_main1.
 
 f.)Determine the Effect upon the Object reference And Primitive values When They Are Passed Into methods
    That Changes The values.(cname:-Call_by_value.java)
+
+
+       Section-7.
+                                                                                                               package-->Inheritance.                                                                                                                
+--->WORKING WITH INHERITANCE:-                                                                                           Access_Modifiers.
+                                                                                                                         Polymorphism.
+a.)Describe Inheritance and its Benifits.(cname:-A.java,A_main.java,C.java,C_main.java,F.java,F_main.java)               Casting.
+                                                                                                                         Method_Overriding
+b.)Develop code that make Use of Polymorphism;Develop code that Override methods;Differntiate Between type
+   of Reference And The Type Of An Object.
+   (cname:-Animal.java,Animal_Main.java,Addition.java,Add_Main.java,Excercise.java,Exer_main.java)
+
+c.)Determine When Casting is Necessary.(cname:-Vehicle.java,Cast_Main.java)
+
+d.)Use of Super and this to Access Objects And Constructors.(cname:-Father.java,Father_main.java,Work.java,Work_main.java)
+
+e.)Use Abstract Class and Interfaces.(cname:-TL.java,Tl_main.java,Sample.java,Sample_main.java)
