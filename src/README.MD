@@ -40,7 +40,7 @@ e.)Develop Code That Uses Wrapper Classes Such as Boolean,Double,Integer).(cname
        Section-3.
                                                                                                              
 --->USING OPERATORS AND DECISION CONSTRUCTORS:-                                     package-->Using_Operators_And_Decision_Constructs_Operator_Precidence                                                                      
-        
+                                                                      
 a.)Use of Java Operators;Use paranthesis to override operator precedence.(cname:-Operators.java)
 
 b.)Test Equality between Strings and the Other Objects Sing == and equals().(cname:-Both_Equals.java)
@@ -48,3 +48,14 @@ b.)Test Equality between Strings and the Other Objects Sing == and equals().(cna
 c.)Create if and if/else(if-else) And Terenary Constructs.(cname:-if_ifelse_terenary_constructs.java)
 
 d.)Use a Switch Statement.(cname:-Switch_Statement.java)
+
+
+      Section-4.
+                                                                                              
+--->CREATING AND USING ARRAYS:-
+                                                                                                                  package-->Creating_And_Using_Arrays
+a.)Declare,Istantiate,Initialize and use of One-Dimensional Array.(cname:-One_Dimensional_Array.java) 
+
+b.)Declare,Instantiate,Initialize and use of Multi-Dimensional Array.(cname:-Multi_Dimensional_Array.java)                                                                                    
+
+
