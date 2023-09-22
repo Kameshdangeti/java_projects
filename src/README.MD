@@ -109,3 +109,22 @@ c.)Determine When Casting is Necessary.(cname:-Vehicle.java,Cast_Main.java)
 d.)Use of Super and this to Access Objects And Constructors.(cname:-Father.java,Father_main.java,Work.java,Work_main.java)
 
 e.)Use Abstract Class and Interfaces.(cname:-TL.java,Tl_main.java,Sample.java,Sample_main.java)
+
+
+       Section-8.
+                                                                                                               package:-Handling_Exceptions
+--->HANDLING EXCEPTION:-
+
+a.)Differentiate Among Checked Exception,UnChecked Exception and Errors.(T)
+
+b.)Create a try/Catch block and Determine how exception alter normal Program Flow.
+   (cname:-Try_catch_Block.java)
+
+c.)Describe Advantage of Exception Handling.(T)
+
+d.)Create And Invoke A Method throws An Exception.(cname:-Throws_Keyword.java)
+
+e.)Recognise Common Exception Classes(such as NullPointer,ArrayIndexOutOfBound,ClassCastExceptions).
+   (cname:-Arithmatic_Exceptions.java,Input_Mismatched_Exception.java,Father.java,Son.java,Daughter.java,
+           Class_Cast_Exceptions.java,Null_Pointer_Exceptions.java,String_Index_Out_Of_Bound_Exception.java
+           Array_Index_Out_Of_Bound_Exceptions.java,Interrupted_Exception.java,File_Not_Found_Exceptions.java)
