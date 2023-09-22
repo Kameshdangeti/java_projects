@@ -128,3 +128,23 @@ e.)Recognise Common Exception Classes(such as NullPointer,ArrayIndexOutOfBound,C
    (cname:-Arithmatic_Exceptions.java,Input_Mismatched_Exception.java,Father.java,Son.java,Daughter.java,
            Class_Cast_Exceptions.java,Null_Pointer_Exceptions.java,String_Index_Out_Of_Bound_Exception.java
            Array_Index_Out_Of_Bound_Exceptions.java,Interrupted_Exception.java,File_Not_Found_Exceptions.java)
+
+
+       Section-9.
+                                                                                                    package:-Working_With_Selected_Classes_From_Java_Api
+--->WORKING WITH SELECTED CLASSES FROM JAVA API:-
+
+a.)Develop a code Using String Buffer and String Builder.(cname:-String_Buffer.java,String_Builder.java)
+
+b.)Declare And use An Array List of Given Type.(cname:-Array_List.java,Array_List_Multiple_Methods.java)
+
+c.)Write A Simple Lambda Expression That Consumes A Lambda Predicate Expression.
+   (cname:-Sample.java,Lambda_Expression.java,Lambda_Predicate_Expression.java)
+
+d.)Create And Manipulate Calender Data Using classes From:
+     =>java.time.LocalDateTime,
+     =>java.time.LocalDate,
+     =>java.time.LocalTime,
+     =>java.time.format.DateTimeFormatter,
+     =>java.time.period.
+   (cname:-Calender_Data.java,Formatting_Date.java,Formatting_Time.java,Time_period.java)
