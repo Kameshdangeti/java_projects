@@ -1,12 +1,13 @@
 //Main method code is written seperately in another class.
-//Below code is main for the Calender_Enc.java
+//Below code is main method for the "Calender.java".
+//It is written in another class.
 package Encapsulation;
 
-public class Enc_main1
+public class Calender_main
 {
 		public static void main(String[] args)
 		{
-			Calender_Enc ce=new Calender_Enc();
+			Calender ce=new Calender();
 			ce.givemonthno(2);
 		}
 }

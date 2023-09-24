@@ -79,16 +79,16 @@ e.)Compare Looping Constructs.(T)
 --->WORKING WITH METHODS AND ENCAPSULATION:-                                                                             Access_Modifiers.
                                                                                                                          
 a.)Create Methods With Arguments and return values,Including Overloaded Methods.
-   (cname:-Create_Methods_with_Arguments_And_Return_Values.java)       
+   (cname:-Addition.java,Addition_main.java)       
 
-b.)Apply Static Keyword to Methods And Fields.(cname:-Person_main.java)   
+b.)Apply Static Keyword to Methods And Fields.(cname:-Person.java,Person_main.java)   
 
 c.)Create and Overload Constructors;Differentiate between default and User Defined Constructors.
    (cname:-Employee_Details.java) 
 
-d.)Apply Access Modifiers.(cname:-Sample.java,Sample1.java,Sample2.java,Sample3.java) 
+d.)Apply Access Modifiers.(cname:-Sample.java,Sample1.java,Sample2.java,Sample3.java ) 
 
-e.)Apply Encapsulation Prinsiple to a class.(Cname:-Calender_Enc.java,Enc_main1.java,OnlineAcc.java,Onlineacc_Ec1.java)                                                                            
+e.)Apply Encapsulation Prinsiple to a class.(Cname:-Calender.java,Calender_main.java,OnlineAcc.java,Onlineacc_main.java)                                                                            
 
 f.)Determine the Effect upon the Object reference And Primitive values When They Are Passed Into methods
    That Changes The values.(cname:-Call_by_value.java)

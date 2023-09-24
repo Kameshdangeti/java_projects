@@ -1,9 +1,10 @@
 //Below we can see the code for the Applying the Encapsulation.
 //Write a program to set Month Number by using Encapsulation.
 //and here we combined/binded the variables and methods into a single Unit.
+//Main method of this class is called on seperate class i.e.,"Calender_main.java"
 package Encapsulation;
 
-public class Calender_Enc 
+public class Calender 
 {
 	private int monthno;
 	public void givemonthno(int monthno)

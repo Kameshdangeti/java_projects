@@ -1,7 +1,8 @@
-//Below we written the code in different and different package.
+//Below we written the code in different package and called in different class.
 //so,we can get output for only  the public int.Because,As we know private canspecify within the class.
 //And protected cannot be accessed because,code is written in the different package.And we all knew default,
 //is only accessed within the package.
+//This code is Related to "Sample.java".
 package Access_Modifiers;
 
 import Encapsulation.Sample;

@@ -1,4 +1,5 @@
-//Below is the code for Encapsulation.
+//Below we written the code for second example of Encapsulation.
+//And the main method of this code is written seperately i.e., "Onlineacc_main.java".
 package Encapsulation;
 
 public class OnlineAcc 

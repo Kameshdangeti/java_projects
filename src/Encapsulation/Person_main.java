@@ -1,5 +1,5 @@
-//The below code is main for the person.java.
-//And it shoulbe wwritten in another class
+//The below code is the main method for the "person.java".
+//And it should be written in another class
 package Encapsulation;
 
 public class Person_main
@@ -7,10 +7,10 @@ public class Person_main
 
 	public static void main(String[] args)
 	{
-		Person p1=new Person("Kamesh");
-		Person p2=new Person("Lucky");
-		System.out.println(p1.getCount());
-		System.out.println(p2.getCount());
-		
+		Person p1=new Person("Lucky");
+		Person p2=new Person("Kamesh");
+		Person.setclg("SPCE");
+		p1.getPersoninfo();
+		p2.getPersoninfo();	
 	}
 }
