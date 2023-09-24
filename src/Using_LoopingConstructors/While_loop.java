@@ -2,7 +2,7 @@
 //Write a program for to check whether the product of the digits is Even or Odd by using While Loop.
 package Using_LoopingConstructors;
 
-public class Create_and_use_While_loop
+public class While_loop
 {
 	public static void main(String[] args) 
 	{

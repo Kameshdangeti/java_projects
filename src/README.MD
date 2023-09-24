@@ -53,7 +53,7 @@ d.)Use a Switch Statement.(cname:-Switch_Statement.java)
       Section-4.
                                                                                               
 --->CREATING AND USING ARRAYS:-
-                                                                                                               package-->Creating_And_Using_Arrays.
+                                                                                                               package-->Creating_And_Using_Arrayss.
 a.)Declare,Istantiate,Initialize and use of One-Dimensional Array.(cname:-One_Dimensional_Array.java) 
 
 b.)Declare,Instantiate,Initialize and use of Multi-Dimensional Array.(cname:-Multi_Dimensional_Array.java)                                                                                    
@@ -63,13 +63,13 @@ b.)Declare,Instantiate,Initialize and use of Multi-Dimensional Array.(cname:-Mul
                                                                                                                                                 
 --->USING LOOP CONSTRUCTORS:-
                                                                                                                package-->Using_LoopingConstructors.
-a.)Create And Use While Loops.(cname:-Create_and_use_While_loop.java,Whileloop2.java)
+a.)Create And Use While Loops.(cname:-While_loop.java,Whileloop2.java)
 
-b.)Create And Use for Loops including the Enhanced for Loop.(cname:-Create_and_Use_For_Loop.java,Enhanced_For_Loop.java)
+b.)Create And Use for Loops including the Enhanced for Loop.(cname:-For_Loop_Div.java,Enhanced_For_Loop.java)
 
-c.)Create and Use do/while Loop.(cname:-Create_And_Use_of_DoWhile_Loop.java)   
+c.)Create and Use do/while Loop.(cname:-DoWhile_Loop.java)   
 
-d.)Use Break And Continue.(cname:-Use_Break_and_Continue.java)   
+d.)Use Break And Continue.(cname:-Use_Break.java,Use_Continue.java)   
 
 e.)Compare Looping Constructs.(T)
 

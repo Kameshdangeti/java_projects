@@ -2,7 +2,7 @@
 //Write a program to find the Even Numbers and summation of the Even numbers Between M and N By using For Loop.
 package Using_LoopingConstructors;
 
-public class Create_and_Use_For_Loop
+public class For_Loop_Div
 {
  public static void main(String[] args) 
  {

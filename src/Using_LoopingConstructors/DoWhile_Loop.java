@@ -1,7 +1,7 @@
 //Below we can see the  basic code for Do-While loop.
 package Using_LoopingConstructors;
 
-public class Create_And_Use_of_DoWhile_Loop 
+public class DoWhile_Loop 
 {
  public static void main(String[] args) 
  {
