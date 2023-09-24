@@ -137,7 +137,7 @@ e.)Recognise Common Exception Classes(such as NullPointer,ArrayIndexOutOfBound,C
 
 a.)Develop a code Using String Buffer and String Builder.(cname:-String_Buffer.java,String_Builder.java)
 
-b.)Declare And use An Array List of Given Type.(cname:-Array_List.java,Array_List_Multiple_Methods.java)
+b.)Declare And use An Array List of Given Type.(cname:-Genric_Type_ArrayList.java,Raw_Type_ArrayList,Array_List_Multiple_Methods.java)
 
 c.)Write A Simple Lambda Expression That Consumes A Lambda Predicate Expression.
    (cname:-Sample.java,Lambda_Expression.java,Lambda_Predicate_Expression.java)

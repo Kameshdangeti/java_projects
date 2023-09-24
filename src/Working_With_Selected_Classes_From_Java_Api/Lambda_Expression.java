@@ -1,5 +1,5 @@
 
-                  //Below code is the extension Sample.java.
+                  //Below code is the extension "Sample.java".
                   //But because of main method it is written in another class.
                   //code for the Using Of lambda_Expression.
 

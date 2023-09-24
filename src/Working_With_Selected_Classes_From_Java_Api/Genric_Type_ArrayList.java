@@ -7,7 +7,7 @@ package Working_With_Selected_Classes_From_Java_Api;
 
 import java.util.ArrayList;
 
-public class Array_List
+public class Genric_Type_ArrayList
 {
 	public static void main(String[] args) 
 	{

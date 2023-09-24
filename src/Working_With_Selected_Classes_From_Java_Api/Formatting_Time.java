@@ -18,7 +18,7 @@ public class Formatting_Time
 		
 		DateTimeFormatter formatter2=DateTimeFormatter.ofPattern("HH-mm");
 		
-		DateTimeFormatter formatter3=DateTimeFormatter.ofPattern("'phone call at' hmm a");
+		DateTimeFormatter formatter3=DateTimeFormatter.ofPattern("'phone call at' h-mm a");
 		
 		System.out.println(time.format(formatter));
 		System.out.println(time.format(formatter2));

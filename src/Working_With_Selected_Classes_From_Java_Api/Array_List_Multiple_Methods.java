@@ -16,7 +16,6 @@ public class Array_List_Multiple_Methods
 		a.add(null);
 		a.add(false);
 		System.out.println(a);                     
-		System.out.println(a);
 		System.out.println(a.contains("Lucky"));    //checks particular object is present or not.
 		System.out.println(a.get(3));               //Returns the particular objet based on index position.
 		System.out.println(a.set(1, 99));           //Replaces the particular object based on index position.

@@ -1,4 +1,4 @@
-   //Below code is for he predicate of Lambda Expression.
+   //Below code is for the predicate of Lambda Expression.
 
 package Working_With_Selected_Classes_From_Java_Api;
 
