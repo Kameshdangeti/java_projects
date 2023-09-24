@@ -10,10 +10,6 @@ public class DoWhile_Loop
 	{
 		System.out.println(i);
 		i++;
-		if (i%2==0) 
-		{
-			System.out.println(i);
-		}
 	}
 	while (i<=10);
  }
