@@ -1,4 +1,5 @@
 //Below we can see the code for abstract class.
+//And the main method of this code is written on "TL_Main.java".
 
 package Inheritances;
 

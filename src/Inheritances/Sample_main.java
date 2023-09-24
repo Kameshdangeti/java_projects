@@ -1,4 +1,4 @@
-//Below we can see the code for Inheritance class main method..
+//Below we can see the code for Main method of "Sample.java".
 
 package Inheritances;
 

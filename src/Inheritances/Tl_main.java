@@ -1,5 +1,4 @@
-//Below we can see the code for abstract class main method.
-
+//Below we can see the main methode for "TL.java".
 package Inheritances;
 
 public class Tl_main

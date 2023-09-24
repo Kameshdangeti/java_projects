@@ -1,7 +1,7 @@
-//Below code is the main method for the casting program.
-package Casting;
+//Below code is the main method for the "Vehicle.java.
+package Inheritances;
 
-public class Cast_Main 
+public class Vehicle_main 
 {
 	public static void main(String[] args) 
 	{

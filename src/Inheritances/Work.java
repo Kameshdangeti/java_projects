@@ -1,5 +1,5 @@
 //Below we can see the code for this  keyword for constructor and objects.
-
+//and the main method of this code is called in seperate class i.e.,"Work_java"
 package Inheritances;
 
 public class   Work

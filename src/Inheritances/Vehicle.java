@@ -1,7 +1,7 @@
 //Below we can see the code for casting i.e., both upcasting and downcasting.
+//And the main method is called in seperate class i.e., in "Vehicle.java".
 
-
-package Casting;
+package Inheritances;
 
  class Vehicle 
 {

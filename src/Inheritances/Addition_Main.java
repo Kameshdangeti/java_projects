@@ -1,8 +1,8 @@
-//Below we can see he main method for Addition.java.
+//Below we can see he main method for "Addition.java".
 //to get the output we should write main in another class.
-package Polymorphism;
+package Inheritances;
 
-public class Add_Main 
+public class Addition_Main 
 {
 		public static void main(String[] args) 
 		{

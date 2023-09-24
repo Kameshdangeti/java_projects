@@ -1,4 +1,4 @@
-//Below code is main method F.java.
+//Below code is main method of "F.java".
 //To get the output we should write in seperate class
 package Inheritances;
 

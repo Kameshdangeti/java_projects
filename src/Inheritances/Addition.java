@@ -1,6 +1,7 @@
   //Compile-Time Polymorphism.
-
-package Polymorphism;
+//In this below code we can see the main method is not there .
+//Becuse it is called in seperate class i.e.,"Addition_Main.java".
+package Inheritances;
 
 public class Addition 
 {

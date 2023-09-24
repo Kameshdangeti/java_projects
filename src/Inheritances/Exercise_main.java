@@ -1,8 +1,8 @@
-//Below we can see the code for main method of Exercise.java.
+//Below we can see the code for main method of "Exercise.java".
 //it is for Method overriding.
-package Method_OverRiding;
+package Inheritances;
 
-public class Exer_main
+public class Exercise_main
 {
 	public static void main(String[] args)
 	{

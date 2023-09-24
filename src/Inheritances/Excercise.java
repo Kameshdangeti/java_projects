@@ -1,5 +1,7 @@
 //Below we can see the code for the Method overriding.
-package Method_OverRiding;
+//As we  can see the code for the below class is called in
+//seperate class i.e.,in "Exercise_main.java".
+package Inheritances;
 
  class Excercise
 {

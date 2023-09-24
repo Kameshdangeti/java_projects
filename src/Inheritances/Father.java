@@ -1,5 +1,5 @@
 //Below we can see the code for super keyword for constructor and objects.
-
+// And the code  main method is called in the "Father_main.java".
 package Inheritances;
 
 public class Father 

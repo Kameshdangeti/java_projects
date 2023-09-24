@@ -1,5 +1,5 @@
 //Below we can see the code for Interface class.
-
+//And the main method is called seperately in the class named ;"Sample_main.java".
 package Inheritances;
 
  interface Sample 

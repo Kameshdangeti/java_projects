@@ -1,6 +1,6 @@
-//Below we can see he main method for Animal.java.
-//to get the output we should write main in another class.
-package Polymorphism;
+//to get the output we should call main in another class.
+//And the below code is main method for "Animal.java".
+package Inheritances;
 
 public class Animal_Main 
 {

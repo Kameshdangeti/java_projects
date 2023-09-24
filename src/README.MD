@@ -86,9 +86,9 @@ b.)Apply Static Keyword to Methods And Fields.(cname:-Person.java,Person_main.ja
 c.)Create and Overload Constructors;Differentiate between default and User Defined Constructors.
    (cname:-Employee_Details.java) 
 
-d.)Apply Access Modifiers.(cname:-Sample.java,Sample1.java,Sample2.java,Sample3.java ) 
+d.)Apply Access Modifiers.(cname:-Sample.java,Sample1.java,Sample2.java,Sample3.java) 
 
-e.)Apply Encapsulation Prinsiple to a class.(Cname:-Calender.java,Calender_main.java,OnlineAcc.java,Onlineacc_main.java)                                                                            
+e.)Apply Encapsulation Principle to a class.(Cname:-Calender.java,Calender_main.java,OnlineAcc.java,Onlineacc_main.java)                                                                            
 
 f.)Determine the Effect upon the Object reference And Primitive values When They Are Passed Into methods
    That Changes The values.(cname:-Call_by_value.java)
@@ -96,15 +96,15 @@ f.)Determine the Effect upon the Object reference And Primitive values When They
 
        Section-7.
                                                                                                                package-->Inheritance.                                                                                                                
---->WORKING WITH INHERITANCE:-                                                                                           Access_Modifiers.
-                                                                                                                         Polymorphism.
-a.)Describe Inheritance and its Benifits.(cname:-A.java,A_main.java,C.java,C_main.java,F.java,F_main.java)               Casting.
-                                                                                                                         Method_Overriding
+--->WORKING WITH INHERITANCE:-                                                                                     
+                                                                                                                        
+a.)Describe Inheritance and its Benifits.(cname:-A.java,A_main.java,C.java,C_main.java,F.java,F_main.java)           
+                                                                                                                        
 b.)Develop code that make Use of Polymorphism;Develop code that Override methods;Differntiate Between type
-   of Reference And The Type Of An Object.
-   (cname:-Animal.java,Animal_Main.java,Addition.java,Add_Main.java,Excercise.java,Exer_main.java)
+   of Reference And The Type Of An Object(T).
+   (cname:-Animal.java,Animal_Main.java,Addition.java,Addition_Main.java,Excercise.java,Exercise_main.java)
 
-c.)Determine When Casting is Necessary.(cname:-Vehicle.java,Cast_Main.java)
+c.)Determine When Casting is Necessary.(cname:-Vehicle.java,Vehicle_Main.java)
 
 d.)Use of Super and this to Access Objects And Constructors.(cname:-Father.java,Father_main.java,Work.java,Work_main.java)
 
