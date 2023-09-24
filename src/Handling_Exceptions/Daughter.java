@@ -1,4 +1,5 @@
-//code written for classcastException
+//code written for "Class_Cast_Exceptions.java"
+//Below code is written in seperate classes and in main class they are casted.
 package Handling_Exceptions;
 
 public class Daughter extends Father

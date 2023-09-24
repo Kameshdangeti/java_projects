@@ -1,4 +1,7 @@
+//Below code is main method of all the Father.java,Daughter.java and Son.java classes.
+
 /*package Exceptions;
+
 
 public class Class_Cast_Exceptions               //It is written in seperate class.
 {
