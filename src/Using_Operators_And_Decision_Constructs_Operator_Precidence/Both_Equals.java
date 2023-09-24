@@ -1,5 +1,6 @@
 //Inthe below we can see the code for .equals() and == 
-//== is used to compare  memeory and .equals() is used to compare content of object
+//== is used to compare  memeory  .
+//equals() is used to compare content of object
 //and it will return the ouput in boolean (true/false).
 package Using_Operators_And_Decision_Constructs_Operator_Precidence;
 

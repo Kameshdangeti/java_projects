@@ -45,7 +45,7 @@ a.)Use of Java Operators;Use paranthesis to override operator precedence.(cname:
 
 b.)Test Equality between Strings and the Other Objects Sing == and equals().(cname:-Both_Equals.java)
 
-c.)Create if and if/else(if-else) And Terenary Constructs.(cname:-if_ifelse_terenary_constructs.java)
+c.)Create if and if/else(if-else) And Terenary Constructs.(cname:-if_ifelse_loops.java,Terenary_Construct.java)
 
 d.)Use a Switch Statement.(cname:-Switch_Statement.java)
 
