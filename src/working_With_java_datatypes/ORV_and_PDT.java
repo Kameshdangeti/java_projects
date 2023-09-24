@@ -5,7 +5,7 @@
 //we created an reference variable because it is in non-static and then we printed them.
 package working_With_java_datatypes;
 
-public class Differentiate_btw_ObjectReferenceVariable_and_PrimittiveDataTypes 
+public class ORV_and_PDT 
 {
 	
 				float e=50.5f;
@@ -31,8 +31,7 @@ public class Differentiate_btw_ObjectReferenceVariable_and_PrimittiveDataTypes
 	    //Primitive data types which stored value, and it can print by creating object reference variable.
 	    //Because the data types are in non-static.
 			
-				Differentiate_btw_ObjectReferenceVariable_and_PrimittiveDataTypes d1 = 
-					new	Differentiate_btw_ObjectReferenceVariable_and_PrimittiveDataTypes();
+				ORV_and_PDT d1 = new	ORV_and_PDT();
 			
 			System.out.println("Float value is :"+d1.e);
 			System.out.println("Double value is :"+d1.f);

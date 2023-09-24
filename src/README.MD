@@ -28,7 +28,7 @@ a.)Declare and Initialize variables(Including Casting and primitive Data types).
    (cname:-Declaring_and_Initializing_variable.java,Casting_Primittive_Datatypes.java)
 
 b.)Differentiate between Object reference variables and Primitive data types.
-   (cname:-Differentiate_btw_ObjectReferenceVariable_and_PrimittiveDataTypes.java)
+   (cname:-ORV_and_PDT.java)
 
 c.)Know how to read (or) write to object fields.(cname:-Read_Or_Write_Object_fields.java)
 

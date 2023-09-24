@@ -6,7 +6,9 @@ public class Wrapper_class
 
     public static void main(String[] args) 
     {
+    	
     //Primitive data types. 
+    	
     	byte a=10;
     	short b=20;
     	int c=30;
@@ -17,6 +19,7 @@ public class Wrapper_class
     	boolean h=true;
     	
     //Wrapping the data types by creating Wrapper objects.
+    	
     	Byte a1=new Byte(a);
     	System.out.println("Wrapped byte value:"+a);
     	
