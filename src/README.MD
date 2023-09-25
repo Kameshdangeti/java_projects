@@ -1,12 +1,12 @@
 
-                                              Oracle Certified Associate Test (1Z0-808)
+                                              ORACLE CERTIFIED ASSOCIATE TEST (1Z0-808)
+                                              __________________________________________
 
-
-       Section-1.                                                                                         T-->Theory topics.
-                                                                                                          cname-->Name of the class.
+       Section-1.                                                                                  T-->Theory topics.
+                                                                                                   cname-->Name of the class.
 --->JAVA BASICS:-   
                                                
-a.)Define Scope of variable.(T)                                                                                package-->Java_Basics.
+a.)Define Scope of variable.(T)                                                                               package-->Java_Basics.
 
 b.)Define Structure Of Java class.(cname:-Structures_of_java.java)
 
@@ -23,7 +23,7 @@ e.)Compare and contrast the features and components of java such as,platform ind
        Section-2.
 
 --->WORKING WITH JAVA DATATYPES:- 
-                                                                                                               package-->Working_With_java_datatypes.       
+                                                                                                              package-->Working_With_java_datatypes.       
 a.)Declare and Initialize variables(Including Casting and primitive Data types).
    (cname:-Declaring_and_Initializing_variable.java,Casting_Primittive_Datatypes.java)
 
@@ -53,7 +53,7 @@ d.)Use a Switch Statement.(cname:-Switch_Statement.java)
       Section-4.
                                                                                               
 --->CREATING AND USING ARRAYS:-
-                                                                                                               package-->Creating_And_Using_Arrayss.
+                                                                                                              package-->Creating_And_Using_Arrayss.
 a.)Declare,Istantiate,Initialize and use of One-Dimensional Array.(cname:-One_Dimensional_Array.java) 
 
 b.)Declare,Instantiate,Initialize and use of Multi-Dimensional Array.(cname:-Multi_Dimensional_Array.java)                                                                                    
@@ -62,7 +62,7 @@ b.)Declare,Instantiate,Initialize and use of Multi-Dimensional Array.(cname:-Mul
        Section-5.
                                                                                                                                                 
 --->USING LOOP CONSTRUCTORS:-
-                                                                                                               package-->Using_LoopingConstructors.
+                                                                                                              package-->Using_LoopingConstructors.
 a.)Create And Use While Loops.(cname:-While_loop.java,Whileloop2.java)
 
 b.)Create And Use for Loops including the Enhanced for Loop.(cname:-For_Loop_Div.java,Enhanced_For_Loop.java)
@@ -75,8 +75,8 @@ e.)Compare Looping Constructs.(T)
 
 
        Section-6.
-                                                                                                               package-->Encapsulaion.
---->WORKING WITH METHODS AND ENCAPSULATION:-                                                                             Access_Modifiers.
+                                                                                                              package-->Encapsulaion.
+--->WORKING WITH METHODS AND ENCAPSULATION:-                                                                            Access_Modifiers.
                                                                                                                          
 a.)Create Methods With Arguments and return values,Including Overloaded Methods.
    (cname:-Addition.java,Addition_main.java)       
@@ -95,7 +95,7 @@ f.)Determine the Effect upon the Object reference And Primitive values When They
 
 
        Section-7.
-                                                                                                               package-->Inheritance.                                                                                                                
+                                                                                                              package-->Inheritance.                                                                                                                
 --->WORKING WITH INHERITANCE:-                                                                                     
                                                                                                                         
 a.)Describe Inheritance and its Benifits.(cname:-A.java,A_main.java,C.java,C_main.java,F.java,F_main.java)           
@@ -112,7 +112,7 @@ e.)Use Abstract Class and Interfaces.(cname:-TL.java,Tl_main.java,Sample.java,Sa
 
 
        Section-8.
-                                                                                                               package:-Handling_Exceptions
+                                                                                                              package:-Handling_Exceptions
 --->HANDLING EXCEPTION:-
 
 a.)Differentiate Among Checked Exception,UnChecked Exception and Errors.(T)
