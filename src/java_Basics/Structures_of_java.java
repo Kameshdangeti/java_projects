@@ -18,5 +18,5 @@ public class Structures_of_java
      Structures_of_java s= new Structures_of_java(); //non-static method is created to call the class and to print it.
      s.Gender();
      name();
-}
+   }
 } 

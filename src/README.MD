@@ -34,7 +34,7 @@ c.)Know how to read (or) write to object fields.(cname:-Read_Or_Write_Object_fie
 
 d.)Explain an Object Life Cycle (Creation,DeReference by assignment and Garbage Collection).(T)
 
-e.)Develop Code That Uses Wrapper Classes Such as Boolean,Double,Integer).(cname:-Wrapper_class.java)
+e.)Develop Code That Uses Wrapper Classes Such as Boolean,Double,Integer.(cname:-Wrapper_class.java)
 
        
        Section-3.
@@ -112,7 +112,7 @@ e.)Use Abstract Class and Interfaces.(cname:-TL.java,Tl_main.java,Sample.java,Sa
 
 
        Section-8.
-                                                                                                              package:-Handling_Exceptions
+                                                                                                               package:-Handling_Exceptions
 --->HANDLING EXCEPTION:-
 
 a.)Differentiate Among Checked Exception,UnChecked Exception and Errors.(T)

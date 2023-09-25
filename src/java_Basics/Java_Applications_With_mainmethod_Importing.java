@@ -16,5 +16,5 @@ public class Java_Applications_With_mainmethod_Importing
 	int no =sc.nextInt();
 	System.out.println("your favourite color is :"+color);
 	System.out.println("Your Lucky number is :"+no);
-}
+   }
 }
