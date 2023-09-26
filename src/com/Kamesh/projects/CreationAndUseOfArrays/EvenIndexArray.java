@@ -1,10 +1,10 @@
 //Below code shows the declaration and instantiate and initialize of One-dimensional Array.
 //Write a program to print Even Index Elements in One-Dimensional Array.
-package Creating_And_Using_Arrays;
+package com.Kamesh.projects.CreationAndUseOfArrays;
 
 import java.util.Scanner;
 
-public class Even_Index_Array
+public class EvenIndexArray
 {
 	public static void main(String[] args)
 	{

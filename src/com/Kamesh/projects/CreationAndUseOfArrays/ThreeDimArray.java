@@ -1,8 +1,8 @@
 //Below we can see the code for the Multi-dimensional Array with its declaration,instantiate,initialization.
 //Write a program to print multi-Dimensional or 3-dimensional Array.
-package Creating_And_Using_Arrays;
+package com.Kamesh.projects.CreationAndUseOfArrays;
 
-public class Three_Dim_Array
+public class ThreeDimArray
 {
 	public static void main(String[] args) 
 	{

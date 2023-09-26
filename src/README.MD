@@ -53,10 +53,10 @@ d.)Use a Switch Statement.(cname:-SwitchStatement.java)
       Section-4.
                                                                                               
 --->CREATING AND USING ARRAYS:-
-                                                                                                              package-->Creating_And_Using_Arrayss.
-a.)Declare,Istantiate,Initialize and use of One-Dimensional Array.(cname:-Even_Index_Array.java) 
+                                                                                                   package-->com.Kamesh.projects.CreationAndUseOfArrays.
+a.)Declare,Istantiate,Initialize and use of One-Dimensional Array.(cname:-EvenIndexArray.java) 
 
-b.)Declare,Instantiate,Initialize and use of Multi-Dimensional Array.(cname:-Three_Dim_Array.java)                                                                                    
+b.)Declare,Instantiate,Initialize and use of Multi-Dimensional Array.(cname:-ThreeDimArray.java)                                                                                    
 
 
        Section-5.
