@@ -3,7 +3,7 @@
 //so to print the data saved in the classes,we created non-static method and after we called the class.
 package java_Basics;
 
-public class Structures_of_java
+public class Creating_static_nonStatic
 {
    public void Gender()  //non-static  
    {
@@ -15,7 +15,8 @@ public class Structures_of_java
    }
    public static void main(String[] args) 
    {
-     Structures_of_java s= new Structures_of_java(); //non-static method is created to call the class and to print it.
+     Creating_static_nonStatic s =
+    		 new Creating_static_nonStatic(); //non-static method is created to call the class and to print it.
      s.Gender();
      name();
    }

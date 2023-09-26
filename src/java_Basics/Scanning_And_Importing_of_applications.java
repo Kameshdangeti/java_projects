@@ -4,7 +4,7 @@ package java_Basics;
 
 import java.util.Scanner;          //Imported Scanner.
 
-public class Java_Applications_With_mainmethod_Importing
+public class Scanning_And_Importing_of_applications
 {
    public static void main(String[] args)      //Main Method.
    {
