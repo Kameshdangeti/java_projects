@@ -1,8 +1,8 @@
 //Below we can see the code for Constructor over-load.
 //And differentiation between the Default and User-defied constructor.
-package Encapsulation;
+package com.Kamesh.projects.MethodsAndEncapsulation;
 
-public class Employee_Details 
+public class CreationOfDefaultAndUserDefinedConstructor 
 {
 	private int empid;
 	private String empname;
@@ -10,7 +10,7 @@ public class Employee_Details
 	private String dept;
 	private double sal;
 	
-	public Employee_Details()                                 //Default Constructor.
+	public CreationOfDefaultAndUserDefinedConstructor()                                 //Default Constructor.
 	{
       System.out.println("Default constructor");             
 	}
@@ -18,7 +18,7 @@ public class Employee_Details
 	
 	
 	
-	public Employee_Details(int i, String empname, String companyname, String dept, double sal) 
+	public CreationOfDefaultAndUserDefinedConstructor(int i, String empname, String companyname, String dept, double sal) 
 	{
 		super();
 		this.empid = i;
@@ -31,10 +31,10 @@ public class Employee_Details
 	
 	public static void main(String[] args) 
 	{
-		Employee_Details e1 = new Employee_Details();           
+		CreationOfDefaultAndUserDefinedConstructor e1 = new CreationOfDefaultAndUserDefinedConstructor();           
 		System.out.println("Default constructor");
 		
-		Employee_Details e2=new Employee_Details(1234,"Kamesh","Wipro","Developer",35000.9);
+		CreationOfDefaultAndUserDefinedConstructor e2=new CreationOfDefaultAndUserDefinedConstructor(1234,"Kamesh","Wipro","Developer",35000.9);
 		System.out.println("Employee id :"+e2.empid);
 		System.out.println("Employee name :"+e2.empname);
 		System.out.println("Employee company name :"+e2.companyname);

@@ -1,16 +1,16 @@
 //Below we written code for Applying the static Keyword to methods And Fields.
 //Here the main method for this code is called seperately,
-//i.e.,"Person_main.java".
-package Encapsulation;
+//i.e.,"ApplyingStaticKeywordToMethodsAndFieldsMain.java".
+package com.Kamesh.projects.MethodsAndEncapsulation;
 
-public class Person
+public class ApplyingStaticKeywordToMethodsAndFields
 {
 		public String Name;
 	    public   int rollno;
 		static String clgname;
 		static int counter=0;
 
-		public Person(String name) 
+		public ApplyingStaticKeywordToMethodsAndFields(String name) 
 		{
 			super();
 			this.Name = name;

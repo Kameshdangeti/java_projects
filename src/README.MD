@@ -75,23 +75,28 @@ e.)Compare Looping Constructs.(T)
 
 
        Section-6.
-                                                                                                              package-->Encapsulaion.
---->WORKING WITH METHODS AND ENCAPSULATION:-                                                                            Access_Modifiers.
+                                                                                                   package-->com.Kamesh.projects.MethodsAndEncapsulation.
+--->WORKING WITH METHODS AND ENCAPSULATION:-                                                                 com.Kamesh.projects.AccessModifiers.
                                                                                                                          
 a.)Create Methods With Arguments and return values,Including Overloaded Methods.
-   (cname:-Addition.java,Addition_main.java)       
+   (cname:-AddIntAndReturnAValueAndOverloadMethod.java,AddIntAndReturnAValueAndOverloadMethodMain.java)       
 
-b.)Apply Static Keyword to Methods And Fields.(cname:-Person.java,Person_main.java)   
+b.)Apply Static Keyword to Methods And Fields.
+   (cname:-ApplyingStaticKeywordToMethodsAndFields.java,ApplyingStaticKeywordToMethodsAndFieldsMain.java)   
 
 c.)Create and Overload Constructors;Differentiate between default and User Defined Constructors.
-   (cname:-Employee_Details.java) 
+   (cname:-CreationOfDefaultAndUserDefinedConstructor.java) 
 
-d.)Apply Access Modifiers.(cname:-Sample.java,Sample1.java,Sample2.java,Sample3.java) 
+d.)Apply Access Modifiers.
+   (cname:-ApplyingAccessModifiers.java,ApplyingAccessModifiersInSeperateClass.java,
+           ApplyingAccessModifiersInSeperatePackage.java,ApplyingAccessModifiersInSeperatePackageWithExtendsKeyword.java) 
 
-e.)Apply Encapsulation Principle to a class.(Cname:-Calender.java,Calender_main.java,OnlineAcc.java,Onlineacc_main.java)                                                                            
+e.)Apply Encapsulation Principle to a class.
+   (Cname:-SettingMonthNoUsingEncapsulation.java,SettingMonthNoUsingEncapsulationMain.java,
+    CreatingPasswordUsingEncapsulation.java,CreatingPasswordUsingEncapsulationMain.java)                                                                            
 
 f.)Determine the Effect upon the Object reference And Primitive values When They Are Passed Into methods
-   That Changes The values.(cname:-Call_by_value.java)
+   That Changes The values.(cname:-PrintingINTUsingCallByValue.java)
 
 
        Section-7.

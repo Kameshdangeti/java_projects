@@ -1,17 +1,17 @@
-//Below we written the code in different package and called in different class.
+//Below we written the code in different package and called in different class.\
 //so,we can get output for only  the public int.Because,As we know private canspecify within the class.
 //And protected cannot be accessed because,code is written in the different package.And we all knew default,
 //is only accessed within the package.
-//This code is Related to "Sample.java".
-package Access_Modifiers;
+//This code is Related to "ApplyingAccessModifiers.java".
+package com.Kamesh.projects.AccessModifiers;
 
-import Encapsulation.Sample;
+import com.Kamesh.projects.MethodsAndEncapsulation.ApplyingAccessModifiers;
 
-public class Sample2
+public class ApplyingAccessModifiersInSeperatePackage
 {
 	public static void main(String[] args) 
 	{
-		Sample s1= new Sample();
+		ApplyingAccessModifiers s1= new ApplyingAccessModifiers();
 		System.out.println(s1.i);
 	//	System.out.println(s1.d);          //Doesn't get Output.
 	//	System.out.println(s1.ch);         //Doesn't get Output.

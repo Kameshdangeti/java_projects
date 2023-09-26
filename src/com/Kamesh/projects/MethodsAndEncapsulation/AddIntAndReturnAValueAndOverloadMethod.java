@@ -1,9 +1,9 @@
 //Below we can see the code for creation of methods and with arguments and return values.
 //And Method Overloading.
-//The main method of this code is called in seperate class i.e., "Addition_main.java".
-package Encapsulation;
+//The main method of this code is called in seperate class i.e., "AddIntAndReturnAValueAndOverloadMethodMain.java".
+package com.Kamesh.projects.MethodsAndEncapsulation;
 import java.io.*;
-public class Addition 
+public class AddIntAndReturnAValueAndOverloadMethod 
 {
 		public  int sum(int a1,int a2)
 		{ 

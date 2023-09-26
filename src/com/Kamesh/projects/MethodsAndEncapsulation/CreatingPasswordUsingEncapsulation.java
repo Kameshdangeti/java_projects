@@ -1,8 +1,8 @@
 //Below we written the code for second example of Encapsulation.
-//And the main method of this code is written seperately i.e., "Onlineacc_main.java".
-package Encapsulation;
+//And the main method of this code is written seperately i.e., "CreatingPasswordUsingEncapsulationMain.java".
+package com.Kamesh.projects.MethodsAndEncapsulation;
 
-public class OnlineAcc 
+public class CreatingPasswordUsingEncapsulation 
 {
 	private String password;
 	public void setpasssword(String password)

@@ -1,7 +1,7 @@
 //Below we can see the code for the call-by-Values.
-package Encapsulation;
+package com.Kamesh.projects.MethodsAndEncapsulation;
 
-public class Call_by_value 
+public class PrintingINTUsingCallByValue 
 {
 	int change (int b)
 
@@ -11,7 +11,7 @@ public class Call_by_value
 	}
 	public static void main(String[] args)
 	{
-		Call_by_value clv=new Call_by_value();
+		PrintingINTUsingCallByValue clv=new PrintingINTUsingCallByValue();
 		int a=20;
 		int c=clv.change(a);
 		
