@@ -1,8 +1,8 @@
 //Below we can see te code for Use of  Continue.
 //And the continue is used to skip the iteration of the loop.
-package Using_LoopingConstructors;
+package com.Kamesh.projects.LoopingConstructor;
 
-public class Use_Continue 
+public class UsingContinueKeyWord 
 {
 public static void main(String[] args) 
 {

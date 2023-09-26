@@ -1,8 +1,8 @@
 //Below we seen the code for creation and use of While loop.
 //Write a program for to check whether the product of the digits is Even or Odd by using While Loop.
-package Using_LoopingConstructors;
+package com.Kamesh.projects.LoopingConstructor;
 
-public class While_loop
+public class ProdOfNUsingWhileloop
 {
 	public static void main(String[] args) 
 	{

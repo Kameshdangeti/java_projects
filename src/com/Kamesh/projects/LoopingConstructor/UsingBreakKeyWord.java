@@ -1,8 +1,8 @@
 //Below we can see te code for Use of Break.
 //so as we know that break is used to terminate the loop.
-package Using_LoopingConstructors;
+package com.Kamesh.projects.LoopingConstructor;
 
-public class Use_Break
+public class UsingBreakKeyWord
 {
 	public static void main(String[] args) 
 	{

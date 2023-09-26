@@ -2,11 +2,11 @@
 //And it can be enhanced by Array/Collection.
 //The array can be any type(primitive or object etc).
 //The collection or iterable can be (a list or a set).
-package Using_LoopingConstructors;
+package com.Kamesh.projects.LoopingConstructor;
 
 import java.util.*;
 
-public class Enhanced_For_Loop 
+public class EnhancingTheForLoop 
 {
 	public static void main(String[] args)
 	{

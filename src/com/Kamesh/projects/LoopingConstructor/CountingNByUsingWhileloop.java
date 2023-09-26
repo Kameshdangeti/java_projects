@@ -1,8 +1,8 @@
 //Below we can see the code for creation and usse of While loop.
 //Write a Program for checking whether the pincode is valid or not.
-package Using_LoopingConstructors;
+package com.Kamesh.projects.LoopingConstructor;
 
-public class Whileloop2 
+public class CountingNByUsingWhileloop 
 {
 	public static void main(String[] args)
 	{

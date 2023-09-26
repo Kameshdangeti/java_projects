@@ -1,7 +1,7 @@
 //Below we can see the  basic code for Do-While loop.
-package Using_LoopingConstructors;
+package com.Kamesh.projects.LoopingConstructor;
 
-public class Print_integers_by_DoWhile 
+public class PrintingIntegersUsingDoWhileloop 
 {
  public static void main(String[] args) 
  {

@@ -62,14 +62,14 @@ b.)Declare,Instantiate,Initialize and use of Multi-Dimensional Array.(cname:-Thr
        Section-5.
                                                                                                                                                 
 --->USING LOOP CONSTRUCTORS:-
-                                                                                                              package-->Using_LoopingConstructors.
-a.)Create And Use While Loops.(cname:-While_loop.java,Whileloop2.java)
+                                                                                                   package-->Kamesh.projects.LoopingConstructor.
+a.)Create And Use While Loops.(cname:-ProdOfNUsingWhileloop.java,CountingNByUsingWhileloop .java)
 
-b.)Create And Use for Loops including the Enhanced for Loop.(cname:-For_Loop_Div.java,Enhanced_For_Loop.java)
+b.)Create And Use for Loops including the Enhanced for Loop.(cname:-DividingIntegersFromMtoNUsingForloop.java,EnhancingTheForLoop.java)
 
-c.)Create and Use do/while Loop.(cname:-DoWhile_Loop.java)   
+c.)Create and Use do/while Loop.(cname:-PrintingIntegersUsingDoWhileloop.java)   
 
-d.)Use Break And Continue.(cname:-Use_Break.java,Use_Continue.java)   
+d.)Use Break And Continue.(cname:-UsingBreakKeyWord.java,UsingContinueKeyWord.java)   
 
 e.)Compare Looping Constructs.(T)
 

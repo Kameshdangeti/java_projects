@@ -1,8 +1,8 @@
 //Below We can see the Creation and use of For Loop.
 //Write a program to find the Even Numbers and summation of the Even numbers Between M and N By using For Loop.
-package Using_LoopingConstructors;
+package com.Kamesh.projects.LoopingConstructor;
 
-public class DivisionOfintegers
+public class DividingIntegersFromMtoNUsingForloop
 {
  public static void main(String[] args) 
  {
