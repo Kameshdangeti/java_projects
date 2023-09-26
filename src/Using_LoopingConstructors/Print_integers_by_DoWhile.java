@@ -1,7 +1,7 @@
 //Below we can see the  basic code for Do-While loop.
 package Using_LoopingConstructors;
 
-public class DoWhile_Loop 
+public class Print_integers_by_DoWhile 
 {
  public static void main(String[] args) 
  {
