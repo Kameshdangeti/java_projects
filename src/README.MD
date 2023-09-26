@@ -126,23 +126,23 @@ e.)Use Abstract Class and Interfaces.
 
 
        Section-8.
-                                                                                                               package:-Handling_Exceptions
+                                                                                                   package:-com.Kamesh.projects.Exceptions.
 --->HANDLING EXCEPTION:-
 
 a.)Differentiate Among Checked Exception,UnChecked Exception and Errors.(T)
 
 b.)Create a try/Catch block and Determine how exception alter normal Program Flow.
-   (cname:-Try_catch_Block.java)
+   (cname:-Dividing2IntUsingTryCatchBlock.java)
 
 c.)Describe Advantage of Exception Handling.(T)
 
-d.)Create And Invoke A Method throws An Exception.(cname:-Throws_Keyword.java)
+d.)Create And Invoke A Method throws An Exception.(cname:-CreationOfThrowsKeyword.java)
 
 e.)Recognise Common Exception Classes(such as NullPointer,ArrayIndexOutOfBound,ClassCastExceptions).
 
-   (cname:-Arithmatic_Exceptions.java,Input_Mismatched_Exception.java,Father.java,Son.java,Daughter.java,
-           Class_Cast_Exceptions.java,Null_Pointer_Exceptions.java,String_Index_Out_Of_Bound_Exception.java
-           Array_Index_Out_Of_Bound_Exceptions.java,Interrupted_Exception.java,File_Not_Found_Exceptions.java)
+   (cname:-ArithmaticExceptions.java,InputMismatchedExceptions.java,Father.java,Son.java,Daughter.java,
+           ClassCastExceptions.java,NullPointerExceptions.java,StringIndexOutOfBoundException.java
+           ArrayIndexOutOfBoundExceptions.java,InterruptedException.java,FileNotFoundExceptions.java)
 
 
        Section-9.

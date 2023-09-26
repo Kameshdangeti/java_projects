@@ -19,9 +19,9 @@ public class Class_Cast_Exceptions               //It is written in seperate cla
 
 //And the exception can be handled by using try/catch block as we can see in below code.
 
-package Handling_Exceptions;
+package com.Kamesh.projects.Exception;
 
-public class Class_Cast_Exceptions
+public class ClassCastExceptions
 {
 	public static void main(String[] args) 
 	{

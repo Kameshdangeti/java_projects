@@ -30,9 +30,9 @@ public class Null_Pointer_Exceptions       //code for abnormal Condition.
 
 //And the exception can be handled by using try/catch block as we can see in below code.
 
-package Handling_Exceptions;
+package com.Kamesh.projects.Exception;
 
-public class Null_Pointer_Exceptions 
+public class NullPointerExceptions 
 {
 	public static  String s;
     

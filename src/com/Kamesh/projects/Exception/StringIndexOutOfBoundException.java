@@ -27,9 +27,9 @@ public class String_Index_Out_Of_Bound_Exception     //For abnorrmal Conditions.
 
 //And the exception can be handled by using try/catch block as we can see in below code.
 
-package Handling_Exceptions;
+package com.Kamesh.projects.Exception;
 
-public class String_Index_Out_Of_Bound_Exception 
+public class StringIndexOutOfBoundException 
 {
 	public static void main(String[] args) 
 	{

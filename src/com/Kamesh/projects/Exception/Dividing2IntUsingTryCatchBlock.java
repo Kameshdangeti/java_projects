@@ -20,9 +20,9 @@ public class Try_catch_Block
 //So,to handle that we make Try and Catch Block .
 //Here try block surrounded by "{}" will holds dangerous statement to complie.
 //catch block states that whicj type of exception and it will provide rest of the code.
-package Handling_Exceptions;
+package com.Kamesh.projects.Exception;
 
-public class Try_catch_Block 
+public class Dividing2IntUsingTryCatchBlock 
 {
 	public static void main(String[] args) 
 	{

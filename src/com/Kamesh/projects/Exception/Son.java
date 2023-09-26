@@ -1,6 +1,6 @@
 //code written for "Class_Cast_Exceptions.java"
 //Below code is written in seperate classes and in main class they are casted.
-package Handling_Exceptions;
+package com.Kamesh.projects.Exception;
 
 public class Son extends Father
 {

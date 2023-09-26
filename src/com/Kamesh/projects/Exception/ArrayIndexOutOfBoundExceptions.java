@@ -26,9 +26,9 @@ public class Array_Index_Out_Of_Bound_Exceptions   //For Abnormal Conditions.
 
 //And the exception can be handled by using try/catch block as we can see in below code.
 
-package Handling_Exceptions;
+package com.Kamesh.projects.Exception;
 
-public class Array_Index_Out_Of_Bound_Exceptions 
+public class ArrayIndexOutOfBoundExceptions 
 {
 	public static void main(String[] args) 
 	{

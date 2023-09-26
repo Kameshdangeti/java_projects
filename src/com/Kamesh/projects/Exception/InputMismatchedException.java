@@ -16,11 +16,11 @@ public class Input_Mismatched_Exception
 
 //And the exception can be handled by using try/catch block as we can see in below code.
 
-package Handling_Exceptions;
+package com.Kamesh.projects.Exception;
 
 import java.util.Scanner;
 
-public class Input_Mismatched_Exception 
+public class InputMismatchedException 
 {
 	public static void main(String[] args) 
 	{

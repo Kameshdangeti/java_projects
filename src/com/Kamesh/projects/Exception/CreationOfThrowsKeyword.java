@@ -19,9 +19,9 @@ public static void laptop_brand()
 
 //So,it can be handled by using "throws Keyword" is used in method to ignore the exception.
 //but still there is an exception so, we use try and catch block to handle that.
-package Handling_Exceptions;
+package com.Kamesh.projects.Exception;
 
-public class Throws_Keyword 
+public class CreationOfThrowsKeyword 
 {
 	public static void laptop_brand() throws InterruptedException
 	{
