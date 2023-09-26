@@ -6,15 +6,15 @@
                                                                                                    cname-->Name of the class.
 --->JAVA BASICS:-   
                                                
-a.)Define Scope of variable.(T)                                                                               package-->Java_Basics.
+a.)Define Scope of variable.(T)                                                                    package-->com.Kamesh.projects.JavaBasics.
 
-b.)Define Structure Of Java class.(cname:-Structures_of_java.java)
+b.)Define Structure Of Java class.(cname:-CreatingStaticAndNonStaticObjects.java)
 
 c.)Create Executable Java Applications with a main Method,Run the a java Program from Command line;
-   Produce console Output.(cname:-Scanning_And_Importing_of_applications.java)
+   Produce console Output.(cname:-ScanningAndImportingOfApplications.java)
 
 d.)Import Other Java Package to make them Accessible in your Code.
-   (cname:-Creating_static_nonStatic.java)
+   (cname:-CreatingStaticAndNonStaticObjects.java)
 
 e.)Compare and contrast the features and components of java such as,platform independence,Object Orienttion,
    Encapsulation.(T)
