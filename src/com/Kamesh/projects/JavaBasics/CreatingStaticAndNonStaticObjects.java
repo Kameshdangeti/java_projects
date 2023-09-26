@@ -1,9 +1,9 @@
 //In the below code we can see the code for the structure of the java class
 //Below we created classes of gender and name which is static and non-static respectively
 //so to print the data saved in the classes,we created non-static method and after we called the class.
-package java_Basics;
+package com.Kamesh.projects.JavaBasics;
 
-public class Creating_static_nonStatic
+public class CreatingStaticAndNonStaticObjects
 {
    public void Gender()  //non-static  
    {
@@ -15,8 +15,8 @@ public class Creating_static_nonStatic
    }
    public static void main(String[] args) 
    {
-     Creating_static_nonStatic s =
-    		 new Creating_static_nonStatic(); //non-static method is created to call the class and to print it.
+     CreatingStaticAndNonStaticObjects s =
+    		 new CreatingStaticAndNonStaticObjects(); //non-static method is created to call the class and to print it.
      s.Gender();
      name();
    }

@@ -1,10 +1,10 @@
 //In the below code we run the code and created main method and imported the java pacakges.
 
-package java_Basics;
+package com.Kamesh.projects.JavaBasics;
 
 import java.util.Scanner;          //Imported Scanner.
 
-public class Scanning_And_Importing_of_applications
+public class ScanningAndImportingOfApplications
 {
    public static void main(String[] args)      //Main Method.
    {
