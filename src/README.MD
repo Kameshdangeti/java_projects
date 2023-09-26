@@ -39,15 +39,15 @@ e.)Develop Code That Uses Wrapper Classes Such as Boolean,Double,Integer.(cname:
        
        Section-3.
                                                                                                              
---->USING OPERATORS AND DECISION CONSTRUCTORS:-                                     package-->Using_Operators_And_Decision_Constructs_Operator_Precidence.                                                                      
+--->USING OPERATORS AND DECISION CONSTRUCTORS:-                                            package-->com.Kamesh.projects.OperatorsAndDecisionConstructs.                                                                      
                                                                       
 a.)Use of Java Operators;Use paranthesis to override operator precedence.(cname:-Operators.java)
 
-b.)Test Equality between Strings and the Other Objects Sing == and equals().(cname:-Both_Equals.java)
+b.)Test Equality between Strings and the Other Objects Sing == and equals().(cname:-CreatingTwoEquals.java)
 
-c.)Create if and if/else(if-else) And Terenary Constructs.(cname:-Division_of_AandB.java,Terenary_Construct.java)
+c.)Create if and if/else(if-else) And Terenary Constructs.(cname:-DividingIntegersFromAtoBUsingIfelse.java,TerenaryConstruct.java)
 
-d.)Use a Switch Statement.(cname:-Switch_Statement.java)
+d.)Use a Switch Statement.(cname:-SwitchStatement.java)
 
 
       Section-4.

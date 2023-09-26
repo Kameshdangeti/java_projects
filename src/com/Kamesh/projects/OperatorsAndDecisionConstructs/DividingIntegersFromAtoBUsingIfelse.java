@@ -1,7 +1,7 @@
 //write a program to print number which are divisible by 4  between a and b using if and if-else
-package Using_Operators_And_Decision_Constructs_Operator_Precidence;
+package com.Kamesh.projects.OperatorsAndDecisionConstructs;
 
-public class Division_of_AandB
+public class DividingIntegersFromAtoBUsingIfelse
 {
 	public static void main(String[] args) 
 	{

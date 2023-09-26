@@ -2,9 +2,9 @@
 //== is used to compare  memeory  .
 //equals() is used to compare content of object
 //and it will return the ouput in boolean (true/false).
-package Using_Operators_And_Decision_Constructs_Operator_Precidence;
+package com.Kamesh.projects.OperatorsAndDecisionConstructs;
 
-public class Both_Equals 
+public class CreatingTwoEquals 
 {
 	public static void main(String[] args) 
 	{

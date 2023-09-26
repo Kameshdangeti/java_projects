@@ -1,6 +1,6 @@
-package Using_Operators_And_Decision_Constructs_Operator_Precidence;
+package com.Kamesh.projects.OperatorsAndDecisionConstructs;
 
-public class Terenary_Construct 
+public class TerenaryConstructs 
 {
 	public static void main(String[] args)
 	{

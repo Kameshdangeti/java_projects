@@ -1,10 +1,10 @@
 //Below code is used to switch the statement like if-else-if-else statements.
 //write a program using switch statement for finding the day in a week. 
-package Using_Operators_And_Decision_Constructs_Operator_Precidence;
+package com.Kamesh.projects.OperatorsAndDecisionConstructs;
 
 import java.util.Scanner;
 
-public class Switch_Statement 
+public class SwitchStatement 
 {
 	public static void main(String[] args) 
 	{
