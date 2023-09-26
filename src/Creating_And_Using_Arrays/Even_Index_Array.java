@@ -4,7 +4,7 @@ package Creating_And_Using_Arrays;
 
 import java.util.Scanner;
 
-public class One_Dimensional_Array
+public class Even_Index_Array
 {
 	public static void main(String[] args)
 	{

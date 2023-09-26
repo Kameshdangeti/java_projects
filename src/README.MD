@@ -54,9 +54,9 @@ d.)Use a Switch Statement.(cname:-Switch_Statement.java)
                                                                                               
 --->CREATING AND USING ARRAYS:-
                                                                                                               package-->Creating_And_Using_Arrayss.
-a.)Declare,Istantiate,Initialize and use of One-Dimensional Array.(cname:-One_Dimensional_Array.java) 
+a.)Declare,Istantiate,Initialize and use of One-Dimensional Array.(cname:-Even_Index_Array.java) 
 
-b.)Declare,Instantiate,Initialize and use of Multi-Dimensional Array.(cname:-Multi_Dimensional_Array.java)                                                                                    
+b.)Declare,Instantiate,Initialize and use of Multi-Dimensional Array.(cname:-Three_Dim_Array.java)                                                                                    
 
 
        Section-5.

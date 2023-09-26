@@ -2,7 +2,7 @@
 //Write a program to print multi-Dimensional or 3-dimensional Array.
 package Creating_And_Using_Arrays;
 
-public class Multi_Dimensional_Array
+public class Three_Dim_Array
 {
 	public static void main(String[] args) 
 	{
