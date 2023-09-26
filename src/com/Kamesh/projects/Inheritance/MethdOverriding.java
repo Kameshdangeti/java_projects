@@ -1,9 +1,9 @@
 //Below we can see the code for the Method overriding.
 //As we  can see the code for the below class is called in
-//seperate class i.e.,in "Exercise_main.java".
-package Inheritances;
+//seperate class i.e.,in "MethodOverridingMain.java".
+package com.Kamesh.projects.Inheritance;
 
- class Excercise
+ class MethdOverriding
 {
 	public void run()
 	{
@@ -14,7 +14,7 @@ package Inheritances;
 		System.out.println("gym is also an Excercise");
 	}
 }
- class Health extends Excercise
+ class Health extends MethdOverriding
  {
 	 public void yoga()
 	 {

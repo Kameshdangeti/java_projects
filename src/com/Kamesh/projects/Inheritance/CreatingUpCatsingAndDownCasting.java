@@ -1,16 +1,17 @@
 //Below we can see the code for casting i.e., both upcasting and downcasting.
-//And the main method is called in seperate class i.e., in "Vehicle.java".
 
-package Inheritances;
+//And the main method is called in seperate class i.e., in "CreatingUpCatsingAndDownCasting.java".
 
- class Vehicle 
+package com.Kamesh.projects.Inheritance;
+
+ class CreatingUpCatsingAndDownCasting 
 {
 	public void move()
 	{
 	  System.out.println("Vehicles move");	
 	}
 }
- class Bus extends Vehicle
+ class Bus extends CreatingUpCatsingAndDownCasting
  {
 	 public void carry()
 	 {

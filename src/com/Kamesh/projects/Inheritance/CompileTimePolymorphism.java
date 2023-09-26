@@ -1,9 +1,9 @@
   //Compile-Time Polymorphism.
 //In this below code we can see the main method is not there .
-//Becuse it is called in seperate class i.e.,"Addition_Main.java".
-package Inheritances;
+//Becuse it is called in seperate class i.e.,"CompileTimePolymorphismMain.java".
+package com.Kamesh.projects.Inheritance;
 
-public class Addition 
+public class CompileTimePolymorphism 
 {
 	public static void add(int i, int k)
 	{

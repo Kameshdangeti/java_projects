@@ -1,8 +1,8 @@
-//Below we can see the code for main method of "Exercise.java".
+//Below we can see the code for main method of "MethodOverriding.java".
 //it is for Method overriding.
-package Inheritances;
+package com.Kamesh.projects.Inheritance;
 
-public class Exercise_main
+public class MethodOverridingMain
 {
 	public static void main(String[] args)
 	{

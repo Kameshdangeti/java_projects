@@ -1,8 +1,8 @@
 //Below main method is code for the "Father.java".
 //Here it uses Super keyword.
-package Inheritances;
+package com.Kamesh.projects.Inheritance;
 
-public class Father_main 
+public class CreationOfSuperKeywordMain 
 {
 	public static void main(String[] args) 
 	{

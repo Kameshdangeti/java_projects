@@ -100,20 +100,29 @@ f.)Determine the Effect upon the Object reference And Primitive values When They
 
 
        Section-7.
-                                                                                                              package-->Inheritance.                                                                                                                
+                                                                                                   package-->com.Kamesh.projects.Inheritance.                                                                                                                
 --->WORKING WITH INHERITANCE:-                                                                                     
                                                                                                                         
-a.)Describe Inheritance and its Benifits.(cname:-A.java,A_main.java,C.java,C_main.java,F.java,F_main.java)           
+a.)Describe Inheritance and its Benifits.
+   (cname:-SingleLevelInheritance.java,SingleLevelInheritanceMain.java,
+           MultiLevelInheritance.java,MultiLevelInheritanceMain.java,
+           HierarchicalInheritance.java,HierarchicalInheritanceMain.java)           
                                                                                                                         
 b.)Develop code that make Use of Polymorphism;Develop code that Override methods;Differntiate Between type
    of Reference And The Type Of An Object(T).
-   (cname:-Animal.java,Animal_Main.java,Addition.java,Addition_Main.java,Excercise.java,Exercise_main.java)
+   (cname:-RuntimePolymorphism.java,RuntimePolymorphismMain.java,
+           CompileTimePolymorphism.java,CompileTimePolymorphismMain.java,
+           MethodOverriding.java,MethodOverridingMain.java)
 
-c.)Determine When Casting is Necessary.(cname:-Vehicle.java,Vehicle_Main.java)
+c.)Determine When Casting is Necessary.(cname:-CreatingUpCatsingAndDownCasting.java,CreatingUpCatsingAndDownCastingMain.java)
 
-d.)Use of Super and this to Access Objects And Constructors.(cname:-Father.java,Father_main.java,Work.java,Work_main.java)
+d.)Use of Super and this to Access Objects And Constructors.
+   (cname:-CreationOfSuperKeyword.java,CreationOfSuperKeywordMain.java,
+           CreationOfThisKeyword.java,CreationOfThisKeywordMain.java)
 
-e.)Use Abstract Class and Interfaces.(cname:-TL.java,Tl_main.java,Sample.java,Sample_main.java)
+e.)Use Abstract Class and Interfaces.
+   (cname:-CreatingAbstractClass.java,CreatingAbstractClassMain.java,
+           ExtendableInterface.java,ExtendableInterfaceMain.java)
 
 
        Section-8.

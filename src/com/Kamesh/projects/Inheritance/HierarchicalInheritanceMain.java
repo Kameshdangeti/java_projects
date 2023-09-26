@@ -1,8 +1,8 @@
-//Below code is main method of "F.java".
+//Below code is main method of "HierarchicalInheritance.java".
 //To get the output we should write in seperate class
-package Inheritances;
+package com.Kamesh.projects.Inheritance;
 
-public class F_main 
+public class HierarchicalInheritanceMain 
 {
 	public static void main(String[] args) 
 	{

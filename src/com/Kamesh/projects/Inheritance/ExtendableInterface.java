@@ -1,12 +1,12 @@
 //Below we can see the code for Interface class.
 //And the main method is called seperately in the class named ;"Sample_main.java".
-package Inheritances;
+package com.Kamesh.projects.Inheritance;
 
- interface Sample 
+ interface ExtendableInterface 
  {
 	 void move();
  }
-  interface Sample1 extends Sample
+  interface Sample1 extends ExtendableInterface
   {
 	  void move1();
   }
