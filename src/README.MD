@@ -25,7 +25,7 @@ e.)Compare and contrast the features and components of java such as,platform ind
 --->WORKING WITH JAVA DATATYPES:- 
                                                                                                               package-->Working_With_java_datatypes.       
 a.)Declare and Initialize variables(Including Casting and primitive Data types).
-   (cname:-Declaring_and_Initializing_variable.java,Casting_Primittive_Datatypes.java)
+   (cname:-Decl_and_Init_variable.java,Casting_Primittive_Datatypes.java)
 
 b.)Differentiate between Object reference variables and Primitive data types.
    (cname:-ORV_and_PDT.java)

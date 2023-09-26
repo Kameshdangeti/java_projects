@@ -1,7 +1,7 @@
 //In the Below we can see the simple/Basic code for Declaring and Initializing the variables. 
 package working_With_java_datatypes;
 
-public class Declaring_and_Initializing_variable
+public class Decl_and_Init_variable
 {
 	public static void main(String[] args)
 	{
