@@ -3,11 +3,11 @@
 //And we also multiple methods used in Lists.
 
        //code for Genric Type.
-package Working_With_Selected_Classes_From_Java_Api;
+package com.Kamesh.projects.JavaAPI;
 
 import java.util.ArrayList;
 
-public class Genric_Type_ArrayList
+public class GenricTypeArrayList
 {
 	public static void main(String[] args) 
 	{

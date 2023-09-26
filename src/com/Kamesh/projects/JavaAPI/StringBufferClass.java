@@ -1,8 +1,8 @@
 //Below we can see the code for String Buffer.
 
-package Working_With_Selected_Classes_From_Java_Api;
+package com.Kamesh.projects.JavaAPI;
 
-public class String_Buffer 
+public class StringBufferClass 
 {
 	public static void main(String[] args)
 	{

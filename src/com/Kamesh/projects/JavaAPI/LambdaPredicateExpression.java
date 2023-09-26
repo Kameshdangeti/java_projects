@@ -1,10 +1,10 @@
    //Below code is for the predicate of Lambda Expression.
 
-package Working_With_Selected_Classes_From_Java_Api;
+package com.Kamesh.projects.JavaAPI;
 
 import java.util.function.Predicate;
 
-public class Lambda_Predicate_Expression 
+public class LambdaPredicateExpression 
 {
 	public static void main(String[] args)
 	{

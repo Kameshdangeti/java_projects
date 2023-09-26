@@ -146,15 +146,15 @@ e.)Recognise Common Exception Classes(such as NullPointer,ArrayIndexOutOfBound,C
 
 
        Section-9.
-                                                                                                    package:-Working_With_Selected_Classes_From_Java_Api
+                                                                                                   package:-com.Kamesh.projects.JavaAPI
 --->WORKING WITH SELECTED CLASSES FROM JAVA API:-
 
-a.)Develop a code Using String Buffer and String Builder.(cname:-String_Buffer.java,String_Builder.java)
+a.)Develop a code Using String Buffer and String Builder.(cname:-StringBufferClass.java,StringBuilderClass.java)
 
-b.)Declare And use An Array List of Given Type.(cname:-Genric_Type_ArrayList.java,Raw_Type_ArrayList,Array_List_Multiple_Methods.java)
+b.)Declare And use An Array List of Given Type.(cname:-GenricTypeArrayList.java,RawTypeArrayList,ArrayListWithMultiple_Methods.java)
 
 c.)Write A Simple Lambda Expression That Consumes A Lambda Predicate Expression.
-   (cname:-Sample.java,Lambda_Expression.java,Lambda_Predicate_Expression.java)
+   (cname:-LambdaExpression.java,LambdaExpressionMain.java,LambdaPredicateExpression.java)
 
 d.)Create And Manipulate Calender Data Using classes From:
      =>java.time.LocalDateTime,
@@ -162,4 +162,4 @@ d.)Create And Manipulate Calender Data Using classes From:
      =>java.time.LocalTime,
      =>java.time.format.DateTimeFormatter,
      =>java.time.period.
-   (cname:-Calender_Data.java,Formatting_Date.java,Formatting_Time.java,Time_period.java)
+   (cname:-CreatingLocalDateLocalTimeLocalDateTime.java,FormattingDate.java,FormattingTime.java,CreatingTimePeriod.java)

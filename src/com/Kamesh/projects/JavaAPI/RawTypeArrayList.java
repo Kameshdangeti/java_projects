@@ -1,10 +1,10 @@
           //code for Raw Type ArrayList.
 
-package Working_With_Selected_Classes_From_Java_Api;
+package com.Kamesh.projects.JavaAPI;
 
 import java.util.ArrayList;
 
-public class Raw_Type_ArrayList
+public class RawTypeArrayList
 {
 	public static void main(String[] args)
 	{

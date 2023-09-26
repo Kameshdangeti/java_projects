@@ -1,10 +1,10 @@
              //ArrayList With multiple Methods.
 
-package Working_With_Selected_Classes_From_Java_Api;
+package com.Kamesh.projects.JavaAPI;
 
 import java.util.ArrayList;
 
-public class Array_List_Multiple_Methods
+public class ArrayListWithMultipleMethods
 {
 	public static void main(String[] args) 
 	{
