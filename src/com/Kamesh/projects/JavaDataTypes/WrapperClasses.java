@@ -1,7 +1,7 @@
 //Here we can see the code developed for wrapper class for all the Primitive data types
-package working_With_java_datatypes;
+package com.Kamesh.projects.JavaDataTypes;
 
-public class Wrapper_class 
+public class WrapperClasses 
 {
 
     public static void main(String[] args) 

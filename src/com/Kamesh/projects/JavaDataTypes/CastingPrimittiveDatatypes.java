@@ -1,8 +1,8 @@
 //In the below we can see the code for Casting primitive data types in
 //both Automatically and Manually.
-package working_With_java_datatypes;
+package com.Kamesh.projects.JavaDataTypes;
 
-public class Casting_Primittive_Datatypes
+public class CastingPrimittiveDatatypes
 {
 	public static void main(String[] args)
 	{

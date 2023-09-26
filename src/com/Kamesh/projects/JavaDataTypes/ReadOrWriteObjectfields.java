@@ -1,7 +1,7 @@
 //Here in the below we writen the code for read or write object fields.
-package working_With_java_datatypes;
+package com.Kamesh.projects.JavaDataTypes;
 
-public class Read_Or_Write_Object_fields 
+public class ReadOrWriteObjectfields 
 {
 	public static void main(String[] args) 
 	{

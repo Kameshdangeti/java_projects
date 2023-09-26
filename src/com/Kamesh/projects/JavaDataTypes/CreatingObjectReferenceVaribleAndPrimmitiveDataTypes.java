@@ -3,9 +3,9 @@
 //As we can see the primitive data types which are written inside main method can be printed directly.
 //but when comes to other primitive data type which are written above/outside the main method.
 //we created an reference variable because it is in non-static and then we printed them.
-package working_With_java_datatypes;
+package com.Kamesh.projects.JavaDataTypes;
 
-public class ORV_and_PDT 
+public class CreatingObjectReferenceVaribleAndPrimmitiveDataTypes 
 {
 	
 				float e=50.5f;
@@ -31,7 +31,7 @@ public class ORV_and_PDT
 	    //Primitive data types which stored value, and it can print by creating object reference variable.
 	    //Because the data types are in non-static.
 			
-				ORV_and_PDT d1 = new	ORV_and_PDT();
+				CreatingObjectReferenceVaribleAndPrimmitiveDataTypes d1 = new	CreatingObjectReferenceVaribleAndPrimmitiveDataTypes();
 			
 			System.out.println("Float value is :"+d1.e);
 			System.out.println("Double value is :"+d1.f);

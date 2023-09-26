@@ -23,18 +23,18 @@ e.)Compare and contrast the features and components of java such as,platform ind
        Section-2.
 
 --->WORKING WITH JAVA DATATYPES:- 
-                                                                                                              package-->Working_With_java_datatypes.       
+                                                                                                   package-->com.Kamesh.projects.JavaDataTypes.       
 a.)Declare and Initialize variables(Including Casting and primitive Data types).
-   (cname:-Decl_and_Init_variable.java,Casting_Primittive_Datatypes.java)
+   (cname:-DeclaringAndInitialiseVariable.java,CastingPrimittiveDatatypes.java)
 
 b.)Differentiate between Object reference variables and Primitive data types.
-   (cname:-ORV_and_PDT.java)
+   (cname:-CreatingObjectReferenceVaribleAndPrimmitiveDataTypes.java)
 
-c.)Know how to read (or) write to object fields.(cname:-Read_Or_Write_Object_fields.java)
+c.)Know how to read (or) write to object fields.(cname:-ReadOrWriteObjectfields.java)
 
 d.)Explain an Object Life Cycle (Creation,DeReference by assignment and Garbage Collection).(T)
 
-e.)Develop Code That Uses Wrapper Classes Such as Boolean,Double,Integer.(cname:-Wrapper_class.java)
+e.)Develop Code That Uses Wrapper Classes Such as Boolean,Double,Integer.(cname:-WrapperClasses.java)
 
        
        Section-3.

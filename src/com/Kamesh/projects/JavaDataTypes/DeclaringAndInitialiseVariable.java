@@ -1,7 +1,7 @@
 //In the Below we can see the simple/Basic code for Declaring and Initializing the variables. 
-package working_With_java_datatypes;
+package com.Kamesh.projects.JavaDataTypes;
 
-public class Decl_and_Init_variable
+public class DeclaringAndInitialiseVariable
 {
 	public static void main(String[] args)
 	{
