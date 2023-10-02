@@ -1,6 +1,6 @@
 package com.Kamesh.projects.PractisingJavaDataTypes;
 
-public class ReadorWriteObjectFields 
+public class ReadOrWriteObjectFields 
 {
   public static void main(String[] args) 
   {

@@ -1,4 +1,4 @@
-package com.Kamesh.projects.practisingExceptionalHandling;
+package com.Kamesh.projects.PractisingExceptionalHandling;
 
 public class Father4 
 {

@@ -1,6 +1,6 @@
 package com.Kamesh.projects.PractisingJavaDataTypes;
 
-public class CastingofPrimitivedatatypes2
+public class CastingOfPrimitiveDataTypes2
 {
    public static void main(String[] args)
    {

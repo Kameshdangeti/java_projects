@@ -6,7 +6,7 @@ import java.time.LocalTime;
 import java.time.Month;
 import java.time.Period;
 
-public class CreatingTmePeriod4 
+public class CreatingTimePeriod4 
 {
 	public static void main(String[] args)
 	{

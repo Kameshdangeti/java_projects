@@ -1,6 +1,6 @@
 package com.Kamesh.projects.PractisingJavaDataTypes;
 
-public class ORVandPDT3
+public class ORVAndPDT3
 { 
 	   float f1=180.18f;
 	   double d1=190.19;
@@ -17,7 +17,7 @@ public class ORVandPDT3
 		System.out.println("Long value:"+l1);
 		System.out.println("Byte value:"+b1);
 		
-		ORVandPDT3 o3=new ORVandPDT3();
+		ORVAndPDT3 o3=new ORVAndPDT3();
 		System.out.println("Float value:"+o3.f1);
 		System.out.println("Double value:"+o3.d1);
 		System.out.println("Char value:"+o3.c1);
