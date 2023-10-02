@@ -1,6 +1,6 @@
 package com.Kamesh.projects.PractisingExceptionalHandling;
 
-public class TrycatchBlock 
+public class TryCatchBlock 
 {
   public static void main(String[] args) 
   {
