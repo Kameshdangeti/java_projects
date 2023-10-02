@@ -1,6 +1,6 @@
 package com.Kamesh.projects.PractisingMethodsAndEncapsulation;
 
-public class OverloadAndArgumentMethodsAndReturnvalue4 
+public class OverloadAndArgumentMethodsAndReturnValue4 
 {
 	public int  sum(int a, int b)
 	{

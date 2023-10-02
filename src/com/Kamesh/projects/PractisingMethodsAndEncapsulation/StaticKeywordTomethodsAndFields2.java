@@ -1,13 +1,13 @@
 package com.Kamesh.projects.PractisingMethodsAndEncapsulation;
 
-public class StaticKeywordTomethodsAndFields2 
+public class StaticKeyWordToMethodsAndFields2 
 {
 	public String Name;
     public   int rollno;
 	static String clgname;
 	static int counter=0;
 
-	public StaticKeywordTomethodsAndFields2(String name) 
+	public StaticKeyWordToMethodsAndFields2(String name) 
 	{
 		super();
 		this.Name = name;

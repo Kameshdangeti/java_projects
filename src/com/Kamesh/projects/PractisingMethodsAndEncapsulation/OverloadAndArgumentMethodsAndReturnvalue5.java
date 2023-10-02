@@ -1,6 +1,6 @@
 package com.Kamesh.projects.PractisingMethodsAndEncapsulation;
 
-public class OverloadAndArgumentMethodsAndReturnvalue5 
+public class OverloadAndArgumentMethodsAndReturnValue5 
 {
 	public int res(int a,int b)
 	{

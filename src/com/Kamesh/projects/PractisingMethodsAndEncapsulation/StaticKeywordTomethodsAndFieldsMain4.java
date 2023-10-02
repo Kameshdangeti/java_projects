@@ -1,12 +1,12 @@
 package com.Kamesh.projects.PractisingMethodsAndEncapsulation;
 
-public class StaticKeywordTomethodsAndFieldsMain4 
+public class StaticKeyWordToMethodsAndFieldsMain4 
 {
 	public static void main(String[] args)
 	{
-	StaticKeywordTomethodsAndFields s1 =new StaticKeywordTomethodsAndFields("Kamesh");
-	StaticKeywordTomethodsAndFields s2 =new StaticKeywordTomethodsAndFields("Lucky");
-	StaticKeywordTomethodsAndFields.setclg("BVCE");
+	StaticKeyWordToMethodsAndFields s1 =new StaticKeyWordToMethodsAndFields("Kamesh");
+	StaticKeyWordToMethodsAndFields s2 =new StaticKeyWordToMethodsAndFields("Lucky");
+	StaticKeyWordToMethodsAndFields.setclg("BVCE");
 	s1.getPersoninfo();
 	s2.getPersoninfo();
 	}

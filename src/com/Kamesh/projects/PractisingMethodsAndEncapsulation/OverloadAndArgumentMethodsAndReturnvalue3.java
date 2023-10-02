@@ -1,6 +1,6 @@
 package com.Kamesh.projects.PractisingMethodsAndEncapsulation;
 
-public class OverloadAndArgumentMethodsAndReturnvalue3 
+public class OverloadAndArgumentMethodsAndReturnValue3 
 {
 	public int op(int a,int b)
 	{
