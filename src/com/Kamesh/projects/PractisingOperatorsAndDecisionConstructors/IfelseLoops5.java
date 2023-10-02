@@ -1,6 +1,6 @@
 package com.Kamesh.projects.PractisingOperatorsAndDecisionConstructors;
 
-public class IfelseLoops5 
+public class IfElseLoops5 
 {
    public static void main(String[] args) 
    {
