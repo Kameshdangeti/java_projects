@@ -2,7 +2,7 @@ package com.Kamesh.projects.PractisingOperatorsAndDecisionConstructors;
 
 import java.util.Scanner;
 
-public class Switchstatements2 
+public class SwitchStatements2 
 {
   public static void main(String[] args) 
   {
