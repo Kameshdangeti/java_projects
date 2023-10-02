@@ -1,4 +1,4 @@
-package com.Kamesh.projects.practsingLoopConstructor;
+package com.Kamesh.projects.PractsingLoopConstructor;
 
 import java.util.LinkedHashSet;
 

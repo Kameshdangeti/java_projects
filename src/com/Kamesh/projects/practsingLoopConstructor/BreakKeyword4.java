@@ -1,4 +1,4 @@
-package com.Kamesh.projects.practsingLoopConstructor;
+package com.Kamesh.projects.PractsingLoopConstructor;
 
 public class BreakKeyword4 
 {
