@@ -1,7 +1,4 @@
-//Below we can see the code for creating and manipulating the calender data by using classes from,
-//java.time.period.
-
-package com.Kamesh.projects.JavaAPI;
+package com.Kamesh.projects.PractisingJavaApi;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -9,11 +6,11 @@ import java.time.LocalTime;
 import java.time.Month;
 import java.time.Period;
 
-public class CreatingTimePeriod
+public class CreatingTimePeriod5
 {
 	public static void main(String[] args)
 	{
-		System.out.println(Period.of(1, 2, 3));
+        System.out.println(Period.of(1, 2, 3));
 		
 		System.out.println(Period.of(0, 33, 65));
 		
