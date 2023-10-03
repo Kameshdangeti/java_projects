@@ -29,6 +29,7 @@ public class CreationOfDefaultAndUserDefinedConstructor
 	}
 	
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		CreationOfDefaultAndUserDefinedConstructor e1 = new CreationOfDefaultAndUserDefinedConstructor();           

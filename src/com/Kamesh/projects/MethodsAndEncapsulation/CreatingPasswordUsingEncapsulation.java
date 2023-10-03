@@ -4,6 +4,7 @@ package com.Kamesh.projects.MethodsAndEncapsulation;
 
 public class CreatingPasswordUsingEncapsulation 
 {
+	@SuppressWarnings("unused")
 	private String password;
 	public void setpasssword(String password)
 	{

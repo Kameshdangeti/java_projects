@@ -6,6 +6,7 @@ package com.Kamesh.projects.MethodsAndEncapsulation;
 
 public class SettingMonthNoUsingEncapsulation 
 {
+	@SuppressWarnings("unused")
 	private int monthno;
 	public void givemonthno(int monthno)
 	{
