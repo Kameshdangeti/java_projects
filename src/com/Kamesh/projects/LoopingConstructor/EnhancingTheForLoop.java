@@ -10,7 +10,7 @@ public class EnhancingTheForLoop
 {
 	public static void main(String[] args)
 	{
-		LinkedHashSet<Object> l=new LinkedHashSet();       //A set
+		LinkedHashSet<Object> l=new LinkedHashSet<Object>();       //A set
 		l.add("Name : Kamesh");
 		l.add("Age : 21");
 		l.add("Gender : Male");
@@ -34,7 +34,7 @@ public class EnhancingTheForLoop
 		}
 		
 		
-		ArrayList a=new ArrayList();                    //List
+		ArrayList<String> a=new ArrayList<String>();                    //List
 		a.add("Name : Kamesh");
 		a.add("Age : 21");
 		a.add("Gender : Male");
@@ -43,7 +43,7 @@ public class EnhancingTheForLoop
 		a.add("Occupation : Software Developer");
 		a.add("Highest Qualification : B.Tech");
 		
-		ListIterator l1=a.listIterator();               //Primitive
+		a.listIterator();
 		
 		for (int j = 0; j < o.length-1; j++)
 		{
