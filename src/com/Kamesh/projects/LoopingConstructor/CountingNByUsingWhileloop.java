@@ -4,6 +4,7 @@ package com.Kamesh.projects.LoopingConstructor;
 
 public class CountingNByUsingWhileloop 
 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args)
 	{
 		int n=533401;
