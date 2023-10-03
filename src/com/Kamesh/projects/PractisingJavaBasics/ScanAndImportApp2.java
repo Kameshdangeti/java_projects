@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class ScanAndImportApp2 
 {
+@SuppressWarnings({ "unused", "resource" })
 public static void main(String[] args) 
 {
 Scanner s =new Scanner(System.in);

@@ -6,9 +6,9 @@ import java.util.Scanner;          //Imported Scanner.
 
 public class ScanningAndImportingOfApplications
 {
-   public static void main(String[] args)      //Main Method.
+   @SuppressWarnings("resource")
+public static void main(String[] args)      //Main Method.
    {
-	@SuppressWarnings("resource")
 	Scanner sc=new Scanner (System.in);
 	
 	System.out.println("Enter your favourite color :");
