@@ -19,7 +19,8 @@ public class DefaultAndUserDefinedConstructors3
 		this.esal = esal;
 		this.epos = epos;
 	}
-    public static void main(String[] args) 
+    @SuppressWarnings("unused")
+	public static void main(String[] args) 
     {
     	DefaultAndUserDefinedConstructors3 d4 =new DefaultAndUserDefinedConstructors3();
     	System.out.println("Default constructor");

@@ -17,6 +17,7 @@ public class DefaultAndUserDefinedConstructors4
 		this.color = color;
 		this.msize = msize;
 	}
+	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		DefaultAndUserDefinedConstructors4 d6 =new DefaultAndUserDefinedConstructors4();

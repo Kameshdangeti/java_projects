@@ -18,6 +18,7 @@ public class DefaultAndUserDefinedConstructors5
 		this.cplace = cplace;
 		this.csize = csize;
 	}
+	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		DefaultAndUserDefinedConstructors5 d8 =new DefaultAndUserDefinedConstructors5();

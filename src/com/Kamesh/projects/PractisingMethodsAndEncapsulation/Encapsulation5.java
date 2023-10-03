@@ -2,6 +2,7 @@ package com.Kamesh.projects.PractisingMethodsAndEncapsulation;
 
 public class Encapsulation5
 {
+	@SuppressWarnings("unused")
 	private String password;
 	public void setpassword(String password)
 	{

@@ -1,5 +1,4 @@
 package com.Kamesh.projects.PractisingMethodsAndEncapsulation;
-import java.io.*;
 public class StaticKeyWordToMethodsAndFields
 {
 	public String Name;

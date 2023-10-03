@@ -18,7 +18,8 @@ public class DefaultAndUserDefinedConstructors
 		this.gender = gender;
 		this.height = height;
 	}
-    public static void main(String[] args)
+    @SuppressWarnings("unused")
+	public static void main(String[] args)
     {
     	DefaultAndUserDefinedConstructors d =new DefaultAndUserDefinedConstructors();
     	System.out.println("Default constructors");

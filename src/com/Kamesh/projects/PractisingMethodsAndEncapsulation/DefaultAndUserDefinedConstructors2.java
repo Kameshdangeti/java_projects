@@ -18,7 +18,8 @@ public class DefaultAndUserDefinedConstructors2
 		this.laptopgen = laptopgen;
 		this.laptopsize = laptopsize;
 	}
-    public static void main(String[] args)
+    @SuppressWarnings("unused")
+	public static void main(String[] args)
     {
     	DefaultAndUserDefinedConstructors2 d2=new DefaultAndUserDefinedConstructors2();
     	System.out.println("Default constructor");
