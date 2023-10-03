@@ -6,9 +6,9 @@ import java.util.Scanner;
 
 public class EvenIndexArray
 {
+	@SuppressWarnings("resource")
 	public static void main(String[] args)
 	{
-		@SuppressWarnings("resource")
 		Scanner sc= new Scanner(System.in);
 		System.out.println("Enter the size of the Array :");
 		int size = sc.nextInt();

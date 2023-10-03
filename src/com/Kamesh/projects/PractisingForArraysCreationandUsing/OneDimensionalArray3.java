@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class OneDimensionalArray3
 {
-  public static void main(String[] args) 
+  @SuppressWarnings("resource")
+public static void main(String[] args) 
   {
 	Scanner sc=new Scanner(System.in);
 	System.out.println("Enter the size of array elements");
