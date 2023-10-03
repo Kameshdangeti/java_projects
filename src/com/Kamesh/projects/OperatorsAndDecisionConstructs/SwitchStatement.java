@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class SwitchStatement 
 {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) 
 	{
 		int day;
