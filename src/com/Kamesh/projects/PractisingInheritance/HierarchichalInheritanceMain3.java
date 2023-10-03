@@ -2,6 +2,7 @@ package com.Kamesh.projects.PractisingInheritance;
 
 public class HierarchichalInheritanceMain3 
 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		G2 g2=new G2();

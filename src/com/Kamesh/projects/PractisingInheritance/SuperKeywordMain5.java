@@ -2,5 +2,9 @@ package com.Kamesh.projects.PractisingInheritance;
 
 public class SuperKeywordMain5 
 {
-  kid k=new kid();
+	@SuppressWarnings("unused")
+	public static void main(String[] args) 
+	{
+		kid k=new kid();
+	}
 }

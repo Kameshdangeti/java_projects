@@ -1,20 +1,20 @@
 package com.Kamesh.projects.PractisingInheritance;
 
-public class MultiLevelInheritace4 
+public class MultiLevelInheritance2
 {
 	public void result1()
 	{
 		System.out.println("Result 1");
 	}
 }
-class Outcome3 extends MultiLevelInheritance
+class Outcome1 extends MultiLevelInheritance
 {
 	public void result2()
 	{
 		System.out.println("Result 2");
 	}
 }
-class End3 extends Outcome3
+class End1 extends Outcome1
 {
 	public void result3()
 	{

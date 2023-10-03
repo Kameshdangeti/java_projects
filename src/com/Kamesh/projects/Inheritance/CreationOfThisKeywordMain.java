@@ -4,9 +4,9 @@ package com.Kamesh.projects.Inheritance;
 
 public class CreationOfThisKeywordMain 
 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
-		@SuppressWarnings("unused")
 		CreationOfThisKeyword w =new CreationOfThisKeyword(10);
 		
 	}

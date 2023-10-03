@@ -1,4 +1,4 @@
-package com.Kamesh.projects.PractisingforArraysCreationandUsing;
+package com.Kamesh.projects.PractisingForArraysCreationandUsing;
 
 public class MultiDimensionalArray2 
 {

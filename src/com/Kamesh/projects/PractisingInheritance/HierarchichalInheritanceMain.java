@@ -1,13 +1,13 @@
 package com.Kamesh.projects.PractisingInheritance;
 
-public class HierarchichalInheritanceMain5 
+public class HierarchichalInheritanceMain 
 {
 	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
-		G4 g4=new G4();
-		H4 h4=new H4();
-		g4.demo2();
-		g4.demo1();
+		G g1=new G();
+		H h1=new H();
+		g1.demo2();
+		g1.demo1();
 	}
 }
