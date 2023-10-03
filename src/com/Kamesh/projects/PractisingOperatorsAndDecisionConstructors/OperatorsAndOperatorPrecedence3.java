@@ -2,7 +2,8 @@ package com.Kamesh.projects.PractisingOperatorsAndDecisionConstructors;
 
 public class OperatorsAndOperatorPrecedence3 
 {
-   public static void main(String[] args) 
+   @SuppressWarnings("unused")
+public static void main(String[] args) 
    {
 	int a=30;
 	int b=60;

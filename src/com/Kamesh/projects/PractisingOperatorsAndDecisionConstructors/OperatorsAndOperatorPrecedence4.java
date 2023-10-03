@@ -2,6 +2,7 @@ package com.Kamesh.projects.PractisingOperatorsAndDecisionConstructors;
 
 public class OperatorsAndOperatorPrecedence4
 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		int x=90;

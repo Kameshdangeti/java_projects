@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class SwitchStatements5
 {
+	@SuppressWarnings("resource")
 	public static void main(String[] args)
 	{
 		int days;

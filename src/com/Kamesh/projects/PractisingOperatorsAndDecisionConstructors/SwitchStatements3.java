@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class SwitchStatements3 
 {
-  public static void main(String[] args)
+  @SuppressWarnings("resource")
+public static void main(String[] args)
   {
 	int days;
 	Scanner sc=new Scanner(System.in);
