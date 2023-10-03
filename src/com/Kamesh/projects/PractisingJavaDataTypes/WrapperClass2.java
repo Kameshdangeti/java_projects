@@ -2,7 +2,8 @@ package com.Kamesh.projects.PractisingJavaDataTypes;
 
 public class WrapperClass2
 {
-  public static void main(String[] args) 
+  @SuppressWarnings("unused")
+public static void main(String[] args) 
   {
 	byte a=10;
 	long b=20;

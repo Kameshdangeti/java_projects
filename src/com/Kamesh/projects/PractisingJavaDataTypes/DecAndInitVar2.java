@@ -1,6 +1,6 @@
 package com.Kamesh.projects.PractisingJavaDataTypes;
 
-public class DecAndInitVar1
+public class DecAndInitVar2
 {
 	public static void main(String[] args)
 	{
