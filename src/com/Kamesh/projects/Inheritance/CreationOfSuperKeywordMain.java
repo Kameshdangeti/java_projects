@@ -6,6 +6,7 @@ public class CreationOfSuperKeywordMain
 {
 	public static void main(String[] args) 
 	{
+		@SuppressWarnings("unused")
 		Son s1= new Son();
 	}
 

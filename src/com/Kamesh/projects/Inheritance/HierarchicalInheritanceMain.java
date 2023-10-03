@@ -4,6 +4,7 @@ package com.Kamesh.projects.Inheritance;
 
 public class HierarchicalInheritanceMain 
 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		G g=new G();

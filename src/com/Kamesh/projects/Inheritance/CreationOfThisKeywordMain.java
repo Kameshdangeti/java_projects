@@ -6,6 +6,7 @@ public class CreationOfThisKeywordMain
 {
 	public static void main(String[] args) 
 	{
+		@SuppressWarnings("unused")
 		CreationOfThisKeyword w =new CreationOfThisKeyword(10);
 		
 	}
