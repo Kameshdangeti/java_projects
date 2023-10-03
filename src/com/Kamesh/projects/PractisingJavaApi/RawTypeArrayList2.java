@@ -6,7 +6,7 @@ public class RawTypeArrayList2
 {
 	public static void main(String[] args) 
 	{
-		ArrayList<Object> a= new ArrayList();
+		ArrayList<Object> a= new ArrayList<Object>();
 		a.add('A');
 		a.add(22.2);
 		a.add(222);

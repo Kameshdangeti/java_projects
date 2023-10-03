@@ -6,7 +6,7 @@ public class GenricTypeArrayList4
 {
 	public static void main(String[] args) 
 	{
-		ArrayList<Character> a=new ArrayList();
+		ArrayList<Character> a=new ArrayList<Character>();
 		a.add('R');
 		a.add('A');
 		a.add('M');

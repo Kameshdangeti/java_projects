@@ -6,7 +6,7 @@ public class RawTypeArrayList5
 {
 	public static void main(String[] args)
 	{
-		ArrayList<Object> a= new ArrayList();
+		ArrayList<Object> a= new ArrayList<Object>();
 		a.add('S');
 		a.add(55.5);
 		a.add(555);
