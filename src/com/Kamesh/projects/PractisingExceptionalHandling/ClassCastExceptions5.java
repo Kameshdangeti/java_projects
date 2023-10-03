@@ -2,7 +2,8 @@ package com.Kamesh.projects.PractisingExceptionalHandling;
 
 public class ClassCastExceptions5 
 {
-    public static void main(String[] args) 
+    @SuppressWarnings("static-access")
+	public static void main(String[] args) 
     {
 		try
 		{

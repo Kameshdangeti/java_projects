@@ -2,6 +2,7 @@ package com.Kamesh.projects.PractisingExceptionalHandling;
 
 public class ArithmeticException 
 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args)
 	{
 		int a=100;

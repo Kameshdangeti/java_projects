@@ -24,13 +24,13 @@ package com.Kamesh.projects.Exception;
 
 public class Dividing2IntUsingTryCatchBlock 
 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		int a=200;
 		int b=0;
 		try
 		{
-			@SuppressWarnings("unused")
 			int c=a/b;	
 		}
 		catch(ArithmeticException c)

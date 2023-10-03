@@ -2,7 +2,8 @@ package com.Kamesh.projects.PractisingExceptionalHandling;
 
 public class TryCatchBlock4 
 {
-  public static void main(String[] args)
+  @SuppressWarnings("unused")
+public static void main(String[] args)
   {
 	int a=400;
 	int b=0;

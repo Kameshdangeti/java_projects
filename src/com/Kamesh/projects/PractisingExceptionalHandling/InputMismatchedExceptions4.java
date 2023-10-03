@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class InputMismatchedExceptions4
 {
-   public static void main(String[] args) 
+   @SuppressWarnings("resource")
+public static void main(String[] args) 
    {
 	  Scanner s=new Scanner(System.in);
 	  System.out.println("Enter the integer value :");
