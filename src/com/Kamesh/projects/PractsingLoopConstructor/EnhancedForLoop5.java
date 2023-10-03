@@ -6,7 +6,7 @@ public class EnhancedForLoop5
 {
 	public static void main(String[] args)
 	{
-		LinkedHashSet<Object> l=new LinkedHashSet();
+		LinkedHashSet<Object> l=new LinkedHashSet<Object>();
 		l.add("Name : Kamesh");
 		l.add("Age : 21");
 		l.add("gender : Male");
