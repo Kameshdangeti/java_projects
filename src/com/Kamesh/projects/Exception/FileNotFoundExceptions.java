@@ -23,6 +23,7 @@ import java.io.FileNotFoundException;
 
 public class FileNotFoundExceptions 
 {
+	@SuppressWarnings("resource")
 	public static void main(String[] args)
 	{
 		try

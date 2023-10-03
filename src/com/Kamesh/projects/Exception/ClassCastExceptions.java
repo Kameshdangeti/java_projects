@@ -23,6 +23,7 @@ package com.Kamesh.projects.Exception;
 
 public class ClassCastExceptions
 {
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) 
 	{
 		try

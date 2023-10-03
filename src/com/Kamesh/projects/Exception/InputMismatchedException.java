@@ -24,6 +24,7 @@ public class InputMismatchedException
 {
 	public static void main(String[] args) 
 	{
+		@SuppressWarnings("resource")
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the integer value :");
 		try

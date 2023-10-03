@@ -34,6 +34,7 @@ public class ArithmaticExceptions
 		int b=0;
 		try
 		{
+		@SuppressWarnings("unused")
 		int c=a/b;
 		}
 		catch (Exception e)

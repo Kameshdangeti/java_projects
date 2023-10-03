@@ -30,6 +30,7 @@ public class Dividing2IntUsingTryCatchBlock
 		int b=0;
 		try
 		{
+			@SuppressWarnings("unused")
 			int c=a/b;	
 		}
 		catch(ArithmeticException c)
