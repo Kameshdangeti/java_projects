@@ -4,9 +4,9 @@ package com.Kamesh.projects.Inheritance;
 
 public class CreationOfSuperKeywordMain 
 {
-	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
+		@SuppressWarnings("unused")
 		Son s1= new Son();
 	}
 
