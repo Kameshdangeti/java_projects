@@ -6,8 +6,8 @@ public class CreationOfSuperKeywordMain
 {
 	public static void main(String[] args) 
 	{
-		@SuppressWarnings("unused")
 		Son s1= new Son();
+		s1.getClass();   //It is written to fix the warning i.e., s1 is not used. 
 	}
 
 }
