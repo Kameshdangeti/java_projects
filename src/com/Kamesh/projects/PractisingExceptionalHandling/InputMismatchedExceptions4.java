@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class InputMismatchedExceptions4
 {
-   @SuppressWarnings("resource")
 public static void main(String[] args) 
    {
 	  Scanner s=new Scanner(System.in);
@@ -13,6 +12,7 @@ public static void main(String[] args)
 	  {
 		 String d=s.next();
 		 System.out.println(d);
+		 s.close();
 	  } 
 	  catch (Exception e) 
 	  {

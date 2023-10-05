@@ -2,7 +2,6 @@ package com.Kamesh.projects.PractisingExceptionalHandling;
 
 public class TryCatchBlock4 
 {
-  @SuppressWarnings("unused")
 public static void main(String[] args)
   {
 	int a=400;
@@ -10,6 +9,7 @@ public static void main(String[] args)
 	try 
 	{
 	    int c=a/b;	
+		a=c;    //It is written to fix the warning that is,Variable 'c' is not used anywhere.
 	} 
 	catch (Exception e)
 	{

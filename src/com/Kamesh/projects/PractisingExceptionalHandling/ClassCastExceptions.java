@@ -2,17 +2,18 @@ package com.Kamesh.projects.PractisingExceptionalHandling;
 
 public class ClassCastExceptions 
 {
-	@SuppressWarnings("static-access")
 	public static void main(String[] args) 
 	{
 		try
 		{
 			Father f=(Father) new Daughter();
-			f.Family();
+			Father.Family();
 			Daughter d=(Daughter)  f;
-			d.Family();
+			Daughter.Family();
 			Son s=(Son) f;
-			s.Family();
+			Father.Family();
+			f=d;    //It is written
+			f=s;    //to fix the warning that is variables f,d is not used.
 		}
 		catch (ClassCastException e)
 		{

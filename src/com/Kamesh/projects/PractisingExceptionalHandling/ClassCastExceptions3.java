@@ -2,17 +2,18 @@ package com.Kamesh.projects.PractisingExceptionalHandling;
 
 public class ClassCastExceptions3 
 {
-	@SuppressWarnings("static-access")
 	public static void main(String[] args)
 	{
 		try 
 		{
 			Father3 f3=(Father3) new Daughter3();
-			f3.kids();
+			Father3.kids();
 			Daughter3 d3=(Daughter3) f3;
-			d3.kids();
+			Daughter3.kids();
 			Son3 s3=(Son3) f3;
-			s3.kids();
+			Son3.kids();
+			f3=d3;    //It is written
+			f3=s3;    //to fix the warning that is variables f3,d3 is not used any where.
 		} 
 		catch (ClassCastException e) 
 		{

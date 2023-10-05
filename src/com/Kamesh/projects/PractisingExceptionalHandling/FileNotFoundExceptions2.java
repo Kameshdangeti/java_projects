@@ -2,15 +2,16 @@ package com.Kamesh.projects.PractisingExceptionalHandling;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public class FileNotFoundExceptions2
 {
-	@SuppressWarnings("resource")
-	public static void main(String[] args) 
+	public static void main(String[] args) throws IOException 
 	{
 		try 
 		{
-			new FileInputStream("def.java");
+		  FileInputStream	f2=new FileInputStream("def.java");
+		  f2.close();
 		} 
 		catch (FileNotFoundException e)
 		{

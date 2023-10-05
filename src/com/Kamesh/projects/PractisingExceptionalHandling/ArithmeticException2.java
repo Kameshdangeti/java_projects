@@ -2,7 +2,6 @@ package com.Kamesh.projects.PractisingExceptionalHandling;
 
 public class ArithmeticException2 
 {
-	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 	    int a=200;
@@ -10,6 +9,7 @@ public class ArithmeticException2
 	    try 
 	    {
 			int c=a/b;
+			a=c;      //It is written to fix the Warning i.e.,'C' is not used.
 		} 
 	    catch (Exception e) 
 	    {
