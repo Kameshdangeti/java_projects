@@ -1,6 +1,6 @@
 package com.Kamesh.projects.PractisingJavaDataTypes;
 
-public class COPDT {
+public class CastingOfPrimitiveDataTypesE {
 	public static void main(String[] args) {
 		int Integer = 10;
 		double Double = Integer;

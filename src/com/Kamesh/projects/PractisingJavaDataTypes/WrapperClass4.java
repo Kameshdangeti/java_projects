@@ -2,7 +2,6 @@ package com.Kamesh.projects.PractisingJavaDataTypes;
 
 public class WrapperClass4
 {
-	@SuppressWarnings("unused")
 	public static void main(String[] args)
 	{
 		byte a=10;
@@ -13,21 +12,39 @@ public class WrapperClass4
 		double f=60.6;
 		char g='K';
 		boolean h=false;
-		Byte a1=new Byte(a);
+		
+		Byte a1 =new Byte(a);
 		System.out.println("Wrapped byte value:"+a);
-		Short b1=new Short(b);
-		System.out.println("Wrapped Short value:"+b);
+		a1.byteValue();
+		
 		Long c1=new Long(c);
-		System.out.println("Wrapped Long value:"+c);
-		Integer d1= new Integer(d);
-		System.out.println("Wrapped Integer value:"+d);
+		System.out.println("Wrapped long value:"+b);
+		c1.longValue();
+		
+		Short b1=new Short(b);
+		System.out.println("Wrapped Short value:"+c);
+		b1.shortValue();
+		
+		Integer d1=new Integer(d);
+		System.out.println("Wrapped integer value:"+d);
+		d1.intValue();
+		
 		Float e1=new Float(e);
 		System.out.println("Wrapped Float value:"+e);
+		e1.floatValue();
+		
 		Double f1=new Double(f);
 		System.out.println("Wrapped Double value:"+f);
+		f1.doubleValue();
+		
 		Character g1=new Character(g);
 		System.out.println("Wrapped Character value:"+g);
+		g1.charValue();
+		
 		Boolean h1=new Boolean(h);
-		System.out.println("Wrapped Boolean value:"+h);
+		System.out.println("Wrapped character value:"+h);
+		h1.booleanValue();
+		//Here a1,b1,c1,d1,e1,f1,g1,h1 are object reference variables it is not used so,it creates Warning.
+		//To overcome the warning we use int value,boolean value etc.
 	}
 }
