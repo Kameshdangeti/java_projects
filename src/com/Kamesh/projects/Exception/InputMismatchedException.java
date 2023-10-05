@@ -22,7 +22,6 @@ import java.util.Scanner;
 
 public class InputMismatchedException 
 {
-	@SuppressWarnings("resource")
 	public static void main(String[] args) 
 	{
 		Scanner sc=new Scanner(System.in);
@@ -31,6 +30,7 @@ public class InputMismatchedException
 		{
 		String n=sc.next();
 		System.out.println(n);
+		sc.close();
 		}
 	catch (Exception e)
 		{

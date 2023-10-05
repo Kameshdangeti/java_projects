@@ -20,16 +20,17 @@ package com.Kamesh.projects.Exception;
 import java.io.FileInputStream;
 
 import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public class FileNotFoundExceptions 
 {
 	
-	@SuppressWarnings("resource")
-	public static void main(String[] args)
+	public static void main(String[] args) throws IOException
 	{
 		try
 		{
-			new FileInputStream("abcd.java");
+			 FileInputStream  f1 = new FileInputStream("Abcd.java");
+			 f1.close();
 		} 
 		catch (FileNotFoundException e)
 		{

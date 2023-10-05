@@ -10,7 +10,6 @@ public class EvenIndexArray
 	public static void main(String[] args)
 	{
 		Scanner sc= new Scanner(System.in);
-		sc.close();
 		System.out.println("Enter the size of the Array :");
 		int size = sc.nextInt();
 		int[]b=new int[size];                                //Array Declared and instantiated & initialization is done 
@@ -25,6 +24,7 @@ public class EvenIndexArray
 			if (i%2==0)
 			{
 				System.out.println(b[i]);
+				sc.close();
 			}
 		}
 	}

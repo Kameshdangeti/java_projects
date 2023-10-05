@@ -23,17 +23,18 @@ package com.Kamesh.projects.Exception;
 
 public class ClassCastExceptions
 {
-	@SuppressWarnings("static-access")
 	public static void main(String[] args) 
 	{
 		try
 		{
 		Father f=(Father) new Daughter();       //Up casting
-		f.kids();            
+		Father.kids();     
 		Daughter d=(Daughter)f;                 //Down casting
-		d.kids();
+		Daughter.kids();
 		Son s=(Son) f;                          //Down casting
-		s.kids();
+		Son.kids();
+		f=d;    //It is written
+		f=s;    //to fix the warning that is variable is not declared.
 		}
 		catch (ClassCastException e)
 		{

@@ -28,7 +28,6 @@ package com.Kamesh.projects.Exception;
 
 public class ArithmaticExceptions 
 {
-	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		int a=200;   
@@ -36,6 +35,7 @@ public class ArithmaticExceptions
 		try
 		{
 		int c=a/b;
+		a=c;      //It is written to fix the Warning i.e.,'C' is not declared.
 		}
 		catch (Exception e)
 		{

@@ -24,14 +24,14 @@ package com.Kamesh.projects.Exception;
 
 public class Dividing2IntUsingTryCatchBlock 
 {
-	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		int a=200;
 		int b=0;
 		try
 		{
-			int c=a/b;	
+			int c=a/b;
+			a=c;    //It is written to fix the warning that is,Variable 'c' is not used.
 		}
 		catch(ArithmeticException c)
 		{
