@@ -2,33 +2,38 @@ package com.Kamesh.projects.PractisingOperatorsAndDecisionConstructors;
 
 public class OperatorsAndOperatorPrecedence3 
 {
-   @SuppressWarnings("unused")
 public static void main(String[] args) 
    {
 	int a=30;
 	int b=60;
 	int c=30;
+	
 	int add=a+b+c;
 	int sub=a-c;
 	int mul=a*b*c;
 	int div=b/c;
 	int mod=a%b;
+	
 	boolean res1=a>b;
 	boolean res2=c<b;
 	boolean res3=a>=c;
 	boolean res4=b<=a;
 	boolean res5=a==b;
 	boolean res6=a!=c;
+	
 	boolean op1=((a>b)&&(c>b));
 	boolean op2=((b>c)||(a<c));
 	boolean op3=!(c<a);
+	
 	int inc=++a;
 	int inc2=b++;
 	int dec=--c;
 	int dec1=a--;
+	
 	int pr1=a+b*c;
 	int pr2=(a+b)*c;
 	int pr3=a/c*b;
+	
 	System.out.println("Addition:"+add);
 	System.out.println("Subtraction:"+sub);
 	System.out.println("Multiplication:"+mul);
@@ -43,6 +48,10 @@ public static void main(String[] args)
 	System.out.println("And operator:"+op1);
 	System.out.println("Or operator:"+op2);
 	System.out.println("Not operator:"+op3);
+	System.out.println("Incrementaion :"+inc);
+	System.out.println("Incrementaion 2:"+inc2);
+	System.out.println("Decrementaion :"+dec);
+	System.out.println("Decrementaion 2:"+dec1);
 	System.out.println("Operator Precedence:"+pr1);
 	System.out.println("Overridden operator precedence:"+pr2);
 	System.out.println("Operator Precedence:"+pr3);

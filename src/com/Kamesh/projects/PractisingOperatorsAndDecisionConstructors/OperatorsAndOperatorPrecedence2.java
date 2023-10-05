@@ -13,6 +13,7 @@ public class OperatorsAndOperatorPrecedence2
 		int mul=b*a*c;
 		int div=b/c;
 		int mod=b%a;
+		
 	    boolean res1=a>b;
 	    boolean res2=b<c;
 	    boolean res3=a>=c;

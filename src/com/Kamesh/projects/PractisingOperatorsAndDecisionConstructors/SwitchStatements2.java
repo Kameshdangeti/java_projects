@@ -4,13 +4,13 @@ import java.util.Scanner;
 
 public class SwitchStatements2 
 {
-  @SuppressWarnings("resource")
 public static void main(String[] args) 
   {
 	int day;
 	Scanner sc=new Scanner(System.in);
 	System.out.println("Enter a no from 1-7 to check the day");
 	day=sc.nextInt();
+	sc.close();
 	switch (day)
 	{
 	case 1:

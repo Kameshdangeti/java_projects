@@ -2,7 +2,6 @@ package com.Kamesh.projects.PractisingOperatorsAndDecisionConstructors;
 
 public class OperatorsAndOperatorPrecedence 
 {
-  @SuppressWarnings("unused")
 public static void main(String[] args) 
   {
 	int a=10;
@@ -13,7 +12,6 @@ public static void main(String[] args)
 	int sub=c-b-a;
 	int mul=a*b*c;
 	int div=b/a;
-	int mod=c%a;
 	
 	boolean res1=a==b;
 	boolean res2=a>b;

@@ -2,7 +2,6 @@ package com.Kamesh.projects.PractisingOperatorsAndDecisionConstructors;
 
 public class OperatorsAndOperatorPrecedence4
 {
-	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		int x=90;
@@ -35,7 +34,10 @@ public class OperatorsAndOperatorPrecedence4
 		System.out.println("Greater than equal:"+res3);
 		System.out.println("Lesser than equal:"+res4);
 		System.out.println("Equals:"+res5);
-		System.out.println("Not Equals:"+res5);
+		System.out.println("Not Equals:"+res6);
+		System.out.println("And operator :"+op1);
+		System.out.println("Or operator :"+op2);
+		System.out.println("Not operator :"+op3);
 		System.out.println("Operator prcedence:"+p1);
 		System.out.println("Overriden operator precednece:"+p2);
 		System.out.println("Operator precedence:"+p3);
