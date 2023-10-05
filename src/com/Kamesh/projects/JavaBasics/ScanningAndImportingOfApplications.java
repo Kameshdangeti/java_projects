@@ -6,7 +6,6 @@ import java.util.Scanner;          //Imported Scanner.
 
 public class ScanningAndImportingOfApplications
 {
-   @SuppressWarnings("resource")
 public static void main(String[] args)      //Main Method.
    {
 	Scanner sc=new Scanner (System.in);
@@ -17,5 +16,6 @@ public static void main(String[] args)      //Main Method.
 	int no =sc.nextInt();
 	System.out.println("your favourite color is :"+color);
 	System.out.println("Your Lucky number is :"+no);
+	sc.close();
    }
 }
