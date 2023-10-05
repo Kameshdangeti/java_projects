@@ -17,11 +17,11 @@ public class DefaultAndUserDefinedConstructors4
 		this.color = color;
 		this.msize = msize;
 	}
-	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		DefaultAndUserDefinedConstructors4 d6 =new DefaultAndUserDefinedConstructors4();
 		System.out.println("Default Constructor");
+		d6.getClass();
 		DefaultAndUserDefinedConstructors4 d7 =new DefaultAndUserDefinedConstructors4("RealMe",12500.89,"Cyan",5);
 		System.out.println("Mobile Name :"+d7.mname);
 		System.out.println("Mobile price :"+d7.mprice);

@@ -19,11 +19,11 @@ public class DefaultAndUserDefinedConstructors3
 		this.esal = esal;
 		this.epos = epos;
 	}
-    @SuppressWarnings("unused")
 	public static void main(String[] args) 
     {
     	DefaultAndUserDefinedConstructors3 d4 =new DefaultAndUserDefinedConstructors3();
     	System.out.println("Default constructor");
+    	d4.getClass();
     	DefaultAndUserDefinedConstructors3 d5 =new DefaultAndUserDefinedConstructors3(1357,"Kamesh",40000.43,"Developer");
         System.out.println("Employee id :"+d5.empid);
         System.out.println("Employee Name :"+d5.ename);

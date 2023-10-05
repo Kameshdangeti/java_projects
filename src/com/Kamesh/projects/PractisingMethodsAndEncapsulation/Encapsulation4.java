@@ -2,7 +2,6 @@ package com.Kamesh.projects.PractisingMethodsAndEncapsulation;
 
 public class Encapsulation4 
 {
-    @SuppressWarnings("unused")
 	private String password;
     public void setpassword(String password)
     {
@@ -15,4 +14,12 @@ public class Encapsulation4
     		System.out.println("Invalid pasword");
     	}
     }
+	public String getPassword()
+	{
+		return password;
+	}
+	public void setPassword(String password) 
+	{
+		this.password = password;
+	}
 }

@@ -18,11 +18,11 @@ public class DefaultAndUserDefinedConstructors5
 		this.cplace = cplace;
 		this.csize = csize;
 	}
-	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		DefaultAndUserDefinedConstructors5 d8 =new DefaultAndUserDefinedConstructors5();
 		System.out.println("Default constructor");
+		d8.getClass();
 		DefaultAndUserDefinedConstructors5 d9 =new DefaultAndUserDefinedConstructors5("BVCEC",225,"Odalarevu","40Acres");
 		System.out.println("College name :"+d9.cname);
 		System.out.println("College code :"+d9.ccode);

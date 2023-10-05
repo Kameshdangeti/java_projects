@@ -2,7 +2,6 @@ package com.Kamesh.projects.PractisingMethodsAndEncapsulation;
 
 public class Encapsulation
 {
-	@SuppressWarnings("unused")
 	private String password;
 	public void setpassword(String password)
 	{
@@ -14,6 +13,14 @@ public class Encapsulation
 		{
 			System.out.println("Invalid password,password must contain 8 characters.");
 		}
+	}
+	public String getPassword()
+	{
+		return password;
+	}
+	public void setPassword(String password)
+	{
+		this.password = password;
 	}
 
 }

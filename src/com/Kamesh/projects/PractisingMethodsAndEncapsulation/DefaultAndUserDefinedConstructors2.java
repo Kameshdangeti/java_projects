@@ -18,11 +18,11 @@ public class DefaultAndUserDefinedConstructors2
 		this.laptopgen = laptopgen;
 		this.laptopsize = laptopsize;
 	}
-    @SuppressWarnings("unused")
 	public static void main(String[] args)
     {
     	DefaultAndUserDefinedConstructors2 d2=new DefaultAndUserDefinedConstructors2();
     	System.out.println("Default constructor");
+    	d2.getClass();
     	DefaultAndUserDefinedConstructors2 d3=new DefaultAndUserDefinedConstructors2("DELL","Silver",10,14);
     	System.out.println("Laptop name :"+d3.laptopname);
     	System.out.println("Laptop color :"+d3.laptopcolor);
