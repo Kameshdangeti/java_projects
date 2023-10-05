@@ -6,13 +6,12 @@ package com.Kamesh.projects.MethodsAndEncapsulation;
 
 public class SettingMonthNoUsingEncapsulation 
 {
-	@SuppressWarnings("unused")
 	private int monthno;
 	public void givemonthno(int monthno)
 	{
 		if (monthno>=1 && monthno<=12) 
 		{
-			this.monthno=monthno;
+			this.setMonthno(monthno);
 			System.out.println("Month Number is set succesfully.");
 		}
 		else
@@ -20,6 +19,14 @@ public class SettingMonthNoUsingEncapsulation
 			System.err.println("Given Month number is Invalid.");
 			System.err.println("Month Number must be between 1-12");
 		}
+	}
+	public int getMonthno() 
+	{
+		return monthno;
+	}
+	public void setMonthno(int monthno) 
+	{
+		this.monthno = monthno;
 	}
 }
 

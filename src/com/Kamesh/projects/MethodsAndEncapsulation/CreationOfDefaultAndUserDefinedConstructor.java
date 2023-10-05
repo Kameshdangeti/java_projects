@@ -12,7 +12,7 @@ public class CreationOfDefaultAndUserDefinedConstructor
 	
 	public CreationOfDefaultAndUserDefinedConstructor()                                 //Default Constructor.
 	{
-      System.out.println("Default constructor");             
+                
 	}
 	
 	
@@ -28,11 +28,10 @@ public class CreationOfDefaultAndUserDefinedConstructor
 		this.sal = sal;
 	}
 	
-	
-	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
-		CreationOfDefaultAndUserDefinedConstructor e1 = new CreationOfDefaultAndUserDefinedConstructor();           
+		CreationOfDefaultAndUserDefinedConstructor e1 = new CreationOfDefaultAndUserDefinedConstructor();  
+		e1.getClass();
 		System.out.println("Default constructor");
 		
 		CreationOfDefaultAndUserDefinedConstructor e2=new CreationOfDefaultAndUserDefinedConstructor(1234,"Kamesh","Wipro","Developer",35000.9);

@@ -7,6 +7,6 @@ public class CreatingPasswordUsingEncapsulationMain
 	public static void main(String[] args) 
 	{
 		CreatingPasswordUsingEncapsulation oa=new CreatingPasswordUsingEncapsulation();
-		oa.setpasssword("Kamesh123");
+		oa.setpasssword("#Kamesh123");
 	}
 }
