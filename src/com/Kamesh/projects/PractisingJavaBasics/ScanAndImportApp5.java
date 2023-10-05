@@ -4,16 +4,17 @@ import java.util.Scanner;
 
 public class ScanAndImportApp5
 {
-@SuppressWarnings({ "resource", "unused" })
 public static void main(String[] args)
 {
   Scanner sc=new Scanner(System.in);
   System.out.println("Enter Your Laptop Name");
-  String Lapname=sc.next();
+  String lname=sc.next();
   System.out.println("Enter the Laptop generation");
-  int lapgen =sc.nextInt();
+  sc.nextInt();
   System.out.println("Enter the price of the Laptop");
-  double lapprice =sc.nextDouble();
+  sc.nextDouble();
   System.out.println("Your information is stored");
+  lname.getClass();
+  sc.close();
 }
 }
