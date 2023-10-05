@@ -6,14 +6,14 @@ import java.util.Scanner;
 
 public class SwitchStatement 
 {
-	@SuppressWarnings("resource")
 	public static void main(String[] args) 
 	{
 		int day;
 		
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter any number from 1-7 to know the day");
+		System.out.println("Enter any number from 1-7 to know the day :");
 		day=sc.nextInt();
+		sc.close();
 		
 		switch (day) 
 		{
