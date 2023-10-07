@@ -6,7 +6,7 @@ public class ProdOfNUsingWhileloop
 {
 	public static void main(String[] args) 
 	{
-		int n=2468;
+		int n=2468;  
 		int pro=1;                                 //Here "pro" means product.
 		while(n!=0)
 		{ 

@@ -11,7 +11,7 @@ public class TerenaryConstructs
 		int x=50;
 		int y=100;
 		int z=150;
-		String result=((x>y)&&(y>z))?x+ "is largest"
+		String result=((x>y)&&(x>z))?x+ "is largest"
 				      : (y>x)&&(y>z)?y+ "is largest"
 				    	  : z+ " is largest";
 		
