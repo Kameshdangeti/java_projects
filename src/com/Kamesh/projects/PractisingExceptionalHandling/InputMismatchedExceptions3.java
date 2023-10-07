@@ -3,20 +3,15 @@ package com.Kamesh.projects.PractisingExceptionalHandling;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class InputMismatchedExceptions3
-{
-	public static void main(String[] args)
-	{
-		Scanner sc=new Scanner(System.in);
+public class InputMismatchedExceptions3 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the integer value :");
-		try 
-		{
-			String c=sc.next();
+		try {
+			String c = sc.next();
 			System.out.println(c);
 			sc.close();
-		} 
-		catch (InputMismatchException e) 
-		{
+		} catch (InputMismatchException e) {
 			// TODO: handle exception
 		}
 	}

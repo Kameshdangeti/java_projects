@@ -9,15 +9,12 @@ package com.Kamesh.projects.AccessModifiers;
 
 import com.Kamesh.projects.MethodsAndEncapsulation.ApplyingAccessModifiers;
 
-public class ApplyingAccessModifiersInSeperatePackageWithExtendsKeyword extends ApplyingAccessModifiers
-{
-	public static void main(String[] args) 
-	{	
-		    ApplyingAccessModifiersInSeperatePackageWithExtendsKeyword 
-		    s3=new ApplyingAccessModifiersInSeperatePackageWithExtendsKeyword();
-		    System.out.println(s3.i);
-			//System.out.println(s3.d);         //Doesn't get the Output.
-			System.out.println(s3.ch);
-			//System.out.println(s3.b);         //Doesn't get the Output. 
+public class ApplyingAccessModifiersInSeperatePackageWithExtendsKeyword extends ApplyingAccessModifiers {
+	public static void main(String[] args) {
+		ApplyingAccessModifiersInSeperatePackageWithExtendsKeyword s3 = new ApplyingAccessModifiersInSeperatePackageWithExtendsKeyword();
+		System.out.println(s3.i);
+		// System.out.println(s3.d); //Doesn't get the Output.
+		System.out.println(s3.ch);
+		// System.out.println(s3.b); //Doesn't get the Output.
 	}
 }

@@ -2,17 +2,14 @@ package com.Kamesh.projects.PractisingOperatorsAndDecisionConstructors;
 
 import java.util.Scanner;
 
-public class SwitchStatements5
-{
-	public static void main(String[] args)
-	{
+public class SwitchStatements5 {
+	public static void main(String[] args) {
 		int days;
-		Scanner sc=new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter any number from  1-7 to know the day");
-		days=sc.nextInt();
+		days = sc.nextInt();
 		sc.close();
-		switch (days) 
-		{
+		switch (days) {
 		case 1:
 			System.out.println("Monday");
 			break;
@@ -34,7 +31,7 @@ public class SwitchStatements5
 		case 7:
 			System.out.println("Sunday");
 			break;
-			
+
 		default:
 			System.out.println("Invalid Numbers");
 			break;

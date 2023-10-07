@@ -2,11 +2,9 @@ package com.Kamesh.projects.PractisingJavaApi;
 
 import java.util.ArrayList;
 
-public class GenricTypeArrayList3 
-{
-	public static void main(String[] args) 
-	{
-		ArrayList<Character> a=new ArrayList<Character>();
+public class GenricTypeArrayList3 {
+	public static void main(String[] args) {
+		ArrayList<Character> a = new ArrayList<Character>();
 		a.add('L');
 		a.add('U');
 		a.add('C');

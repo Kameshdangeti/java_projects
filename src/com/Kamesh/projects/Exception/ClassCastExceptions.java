@@ -16,28 +16,22 @@ public class Class_Cast_Exceptions               //It is written in seperate cla
 	}
 }*/
 
-
 //And the exception can be handled by using try/catch block as we can see in below code.
 
 package com.Kamesh.projects.Exception;
 
-public class ClassCastExceptions
-{
-	public static void main(String[] args) 
-	{
-		try
-		{
-		Father f=(Father) new Daughter();       //Up casting
-		Father.kids();     
-		Daughter d=(Daughter)f;                 //Down casting
-		Daughter.kids();
-		Son s=(Son) f;                          //Down casting
-		Son.kids();
-		f=d;    //It is written
-		f=s;    //to fix the warning that is variable is not declared.
-		}
-		catch (ClassCastException e)
-		{
+public class ClassCastExceptions {
+	public static void main(String[] args) {
+		try {
+			Father f = (Father) new Daughter(); // Up casting
+			Father.kids();
+			Daughter d = (Daughter) f; // Down casting
+			Daughter.kids();
+			Son s = (Son) f; // Down casting
+			Son.kids();
+			f = d; // It is written
+			f = s; // to fix the warning that is variable is not declared.
+		} catch (ClassCastException e) {
 			System.out.println("Down casting is not possible without upcasting");
 		}
 	}

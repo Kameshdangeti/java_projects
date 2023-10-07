@@ -1,4 +1,4 @@
-            //NullPointerExceptions
+//NullPointerExceptions
 /*package Exceptions;                      //code for normal condition.
 
 public class Null_Pointer_Exceptions 
@@ -12,7 +12,6 @@ public class Null_Pointer_Exceptions
 		System.out.println("Hii");
 	}
 }*/
-
 
 /*package Exceptions;
 
@@ -32,19 +31,14 @@ public class Null_Pointer_Exceptions       //code for abnormal Condition.
 
 package com.Kamesh.projects.Exception;
 
-public class NullPointerExceptions 
-{
-	public static  String s;
-    
-	public static void main(String[] args)
-	{
-		try
-		{
-		System.out.println(s.length());
-		System.out.println(s.charAt(3));
-		}
-		catch (NullPointerException e)
-		{
+public class NullPointerExceptions {
+	public static String s;
+
+	public static void main(String[] args) {
+		try {
+			System.out.println(s.length());
+			System.out.println(s.charAt(3));
+		} catch (NullPointerException e) {
 			System.out.println("String values were not declared in the statement.");
 			System.out.println("Hii");
 		}

@@ -1,6 +1,6 @@
-               //2.Checked Exceptions/Compile-Time Exception.
+//2.Checked Exceptions/Compile-Time Exception.
 
-	//InterruptedExceptions.
+//InterruptedExceptions.
 /*package Exceptions;
 
 public class Interrupted_Exception 
@@ -28,18 +28,13 @@ public class Interrupted_Exception
 
 package com.Kamesh.projects.Exception;
 
-public class InterruptedExceptions 
-{
- public static void main(String[] args) 
- {
-	System.out.println("Good morning");
-	try 
-	{
-		Thread.sleep(2000);
-	} 
-	catch (InterruptedException e)
-	{
+public class InterruptedExceptions {
+	public static void main(String[] args) {
+		System.out.println("Good morning");
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+		}
+		System.out.println("Good Evening");
 	}
-	System.out.println("Good Evening");
- }
 }

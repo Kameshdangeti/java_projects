@@ -2,11 +2,9 @@
 //it is for Method overriding.
 package com.Kamesh.projects.Inheritance;
 
-public class MethodOverridingMain
-{
-	public static void main(String[] args)
-	{
-		Diet d=new Diet();
+public class MethodOverridingMain {
+	public static void main(String[] args) {
+		Diet d = new Diet();
 		d.run();
 		d.gym();
 		d.yoga();

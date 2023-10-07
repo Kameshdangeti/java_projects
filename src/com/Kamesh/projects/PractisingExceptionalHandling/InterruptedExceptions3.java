@@ -1,16 +1,11 @@
 package com.Kamesh.projects.PractisingExceptionalHandling;
 
-public class InterruptedExceptions3
-{
-	public static void main(String[] args) 
-	{
+public class InterruptedExceptions3 {
+	public static void main(String[] args) {
 		System.out.println("Hii");
-		try
-		{
+		try {
 			Thread.sleep(3000);
-		} 
-		catch (InterruptedException e) 
-		{
+		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}

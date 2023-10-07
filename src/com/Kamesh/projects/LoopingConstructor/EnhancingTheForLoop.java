@@ -4,13 +4,12 @@
 //The collection or iterable can be (a list or a set).
 package com.Kamesh.projects.LoopingConstructor;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.LinkedHashSet;
 
-public class EnhancingTheForLoop 
-{
-	public static void main(String[] args)
-	{
-		LinkedHashSet<Object> l=new LinkedHashSet<Object>();       //A set
+public class EnhancingTheForLoop {
+	public static void main(String[] args) {
+		LinkedHashSet<Object> l = new LinkedHashSet<Object>(); // A set
 		l.add("Name : Kamesh");
 		l.add("Age : 21");
 		l.add("Gender : Male");
@@ -18,23 +17,19 @@ public class EnhancingTheForLoop
 		l.add("Height : 5.10");
 		l.add("Occupation : Software Developer");
 		l.add("Highest Qualification : B.Tech");
-		
-		
-		Object [] o=l.toArray();                         //Primitive
-		
-		for (int i = 0; i < o.length-1; i++) 
-		{
+
+		Object[] o = l.toArray(); // Primitive
+
+		for (int i = 0; i < o.length - 1; i++) {
 			System.out.println(o[i]);
 		}
-		
-		
-		for (Object details : l)                       //Object
-		{ 
+
+		for (Object details : l) // Object
+		{
 			System.out.println(details);
 		}
-		
-		
-		ArrayList<String> a=new ArrayList<String>();                    //List
+
+		ArrayList<String> a = new ArrayList<String>(); // List
 		a.add("Name : Kamesh");
 		a.add("Age : 21");
 		a.add("Gender : Male");
@@ -42,15 +37,14 @@ public class EnhancingTheForLoop
 		a.add("Height : 5.10");
 		a.add("Occupation : Software Developer");
 		a.add("Highest Qualification : B.Tech");
-		
+
 		a.listIterator();
-		
-		for (int j = 0; j < o.length-1; j++)
-		{
+
+		for (int j = 0; j < o.length - 1; j++) {
 			System.out.println(o[j]);
 		}
-		
-		for (Object self : a)                           //Object
+
+		for (Object self : a) // Object
 		{
 			System.out.println(self);
 		}

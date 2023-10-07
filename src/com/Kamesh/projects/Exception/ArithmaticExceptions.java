@@ -6,8 +6,8 @@
 // can also be seen in this.
 
 //1.Un-Checked Exceptions/Run-Time Exceptions:-
-	
-               //ArithmaticException.
+
+//ArithmaticException.
 /*package Exceptions;
 
 public class Arithmatic_Exceptions 
@@ -26,21 +26,16 @@ public class Arithmatic_Exceptions
 
 package com.Kamesh.projects.Exception;
 
-public class ArithmaticExceptions 
-{
-	public static void main(String[] args) 
-	{
-		int a=200;   
-		int b=0;
-		try
-		{
-		int c=a/b;
-		a=c;      //It is written to fix the Warning i.e.,'C' is not declared.
-		}
-		catch (Exception e)
-		{
+public class ArithmaticExceptions {
+	public static void main(String[] args) {
+		int a = 200;
+		int b = 0;
+		try {
+			int c = a / b;
+			a = c; // It is written to fix the Warning i.e.,'C' is not declared.
+		} catch (Exception e) {
 			System.out.println("Exception Handled");
 		}
-		System.out.println("Good morning");	
-	   }
+		System.out.println("Good morning");
+	}
 }

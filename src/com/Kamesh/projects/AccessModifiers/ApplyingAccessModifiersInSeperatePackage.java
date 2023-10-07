@@ -7,14 +7,12 @@ package com.Kamesh.projects.AccessModifiers;
 
 import com.Kamesh.projects.MethodsAndEncapsulation.ApplyingAccessModifiers;
 
-public class ApplyingAccessModifiersInSeperatePackage
-{
-	public static void main(String[] args) 
-	{
-		ApplyingAccessModifiers s1= new ApplyingAccessModifiers();
+public class ApplyingAccessModifiersInSeperatePackage {
+	public static void main(String[] args) {
+		ApplyingAccessModifiers s1 = new ApplyingAccessModifiers();
 		System.out.println(s1.i);
-	//	System.out.println(s1.d);          //Doesn't get Output.
-	//	System.out.println(s1.ch);         //Doesn't get Output.
-	//	System.out.println(s1.b);          //Doesn't get Output.
+		// System.out.println(s1.d); //Doesn't get Output.
+		// System.out.println(s1.ch); //Doesn't get Output.
+		// System.out.println(s1.b); //Doesn't get Output.
 	}
 }

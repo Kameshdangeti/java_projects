@@ -4,31 +4,24 @@
 //Main method of this class is called on seperate class i.e.,"SettingMonthNoUsingEncapsulationMain.java"
 package com.Kamesh.projects.MethodsAndEncapsulation;
 
-public class SettingMonthNoUsingEncapsulation 
-{
+public class SettingMonthNoUsingEncapsulation {
 	private int monthno;
-	public void givemonthno(int monthno)
-	{
-		if (monthno>=1 && monthno<=12) 
-		{
+
+	public void givemonthno(int monthno) {
+		if (monthno >= 1 && monthno <= 12) {
 			this.setMonthno(monthno);
 			System.out.println("Month Number is set succesfully.");
-		}
-		else
-		{
+		} else {
 			System.err.println("Given Month number is Invalid.");
 			System.err.println("Month Number must be between 1-12");
 		}
 	}
-	public int getMonthno() 
-	{
+
+	public int getMonthno() {
 		return monthno;
 	}
-	public void setMonthno(int monthno) 
-	{
+
+	public void setMonthno(int monthno) {
 		this.monthno = monthno;
 	}
 }
-
-
-

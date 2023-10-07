@@ -3,33 +3,27 @@
 //Runtime,compiletime.
 //And this code main is called seperately in the other class i.e.,"RuntimePolymorphismMain.java".
 
-                   //Run-Time Polymorphism.
+//Run-Time Polymorphism.
 package com.Kamesh.projects.Inheritance;
 
- interface RuntimePolymorphism 
-{
+interface RuntimePolymorphism {
 	void noise();
 }
 
-class lion implements RuntimePolymorphism
-{
-	public void noise()
-	{
+class lion implements RuntimePolymorphism {
+	public void noise() {
 		System.out.println("lion roars.");
 	}
 }
 
-class Tiger implements RuntimePolymorphism
-{
-	public void noise()
-	{
+class Tiger implements RuntimePolymorphism {
+	public void noise() {
 		System.out.println("Tiger roars");
 	}
 }
-class Panther implements RuntimePolymorphism
-{
-	public void noise()
-	{
+
+class Panther implements RuntimePolymorphism {
+	public void noise() {
 		System.out.println("panther roars");
 	}
 }

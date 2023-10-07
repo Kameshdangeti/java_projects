@@ -5,37 +5,37 @@
 //we created an reference variable because it is in non-static and then we printed them.
 package com.Kamesh.projects.JavaDataTypes;
 
-public class CreatingObjectReferenceVaribleAndPrimmitiveDataTypes 
-{
-	
-				float e=50.5f;
-				double f=60.678;
-				char  g='K';
-				boolean h=true;
-		
-	public static void main(String[] args) 
-	{
-		
-		//Primitive data types which stored value, and it can print directly because they are in static.
-		
-				byte a=10;
-				short b=20;
-				int c=30;
-				long d=4000000l;
-			
-			System.out.println("Byte value is :"+a);
-			System.out.println("Short value is :"+b);
-			System.out.println("int value is :"+c);
-			System.out.println("long value is :"+d);
-			
-	    //Primitive data types which stored value, and it can print by creating object reference variable.
-	    //Because the data types are in non-static.
-			
-				CreatingObjectReferenceVaribleAndPrimmitiveDataTypes d1 = new	CreatingObjectReferenceVaribleAndPrimmitiveDataTypes();
-			
-			System.out.println("Float value is :"+d1.e);
-			System.out.println("Double value is :"+d1.f);
-			System.out.println("Char value is :"+d1.g);
-			System.out.println("Boolean value is :"+d1.h);
+public class CreatingObjectReferenceVaribleAndPrimmitiveDataTypes {
+
+	float e = 50.5f;
+	double f = 60.678;
+	char g = 'K';
+	boolean h = true;
+
+	public static void main(String[] args) {
+
+		// Primitive data types which stored value, and it can print directly because
+		// they are in static.
+
+		byte a = 10;
+		short b = 20;
+		int c = 30;
+		long d = 4000000l;
+
+		System.out.println("Byte value is :" + a);
+		System.out.println("Short value is :" + b);
+		System.out.println("int value is :" + c);
+		System.out.println("long value is :" + d);
+
+		// Primitive data types which stored value, and it can print by creating object
+		// reference variable.
+		// Because the data types are in non-static.
+
+		CreatingObjectReferenceVaribleAndPrimmitiveDataTypes d1 = new CreatingObjectReferenceVaribleAndPrimmitiveDataTypes();
+
+		System.out.println("Float value is :" + d1.e);
+		System.out.println("Double value is :" + d1.f);
+		System.out.println("Char value is :" + d1.g);
+		System.out.println("Boolean value is :" + d1.h);
 	}
 }

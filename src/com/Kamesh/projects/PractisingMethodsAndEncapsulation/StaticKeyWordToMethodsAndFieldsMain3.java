@@ -1,13 +1,11 @@
 package com.Kamesh.projects.PractisingMethodsAndEncapsulation;
 
-public class StaticKeyWordToMethodsAndFieldsMain3 
-{
-	public static void main(String[] args)
-	{
-	StaticKeyWordToMethodsAndFields s1 =new StaticKeyWordToMethodsAndFields("Kamesh");
-	StaticKeyWordToMethodsAndFields s2 =new StaticKeyWordToMethodsAndFields("Lucky");
-	StaticKeyWordToMethodsAndFields.setclg("BVCE");
-	s1.getPersoninfo();
-	s2.getPersoninfo();
+public class StaticKeyWordToMethodsAndFieldsMain3 {
+	public static void main(String[] args) {
+		StaticKeyWordToMethodsAndFields s1 = new StaticKeyWordToMethodsAndFields("Kamesh");
+		StaticKeyWordToMethodsAndFields s2 = new StaticKeyWordToMethodsAndFields("Lucky");
+		StaticKeyWordToMethodsAndFields.setclg("BVCE");
+		s1.getPersoninfo();
+		s2.getPersoninfo();
 	}
 }

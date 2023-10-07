@@ -2,22 +2,18 @@
 //Write a program to find the Even Numbers and summation of the Even numbers Between M and N By using For Loop.
 package com.Kamesh.projects.LoopingConstructor;
 
-public class DividingIntegersFromMtoNUsingForloop
-{
- public static void main(String[] args) 
- {
-	 int m=10;
-	 int n=20;
-	 int sum=0;
-	 for (int i = m; i < n; i++)
-	 {
-		if (i%2==0)
-		{
-			System.out.println("The Even numbers between  m and n :"+i);
-			sum =sum+i;
-			System.out.println("The Summation of the Even Numbers Between m and n :"+sum);
+public class DividingIntegersFromMtoNUsingForloop {
+	public static void main(String[] args) {
+		int m = 10;
+		int n = 20;
+		int sum = 0;
+		for (int i = m; i < n; i++) {
+			if (i % 2 == 0) {
+				System.out.println("The Even numbers between  m and n :" + i);
+				sum = sum + i;
+				System.out.println("The Summation of the Even Numbers Between m and n :" + sum);
+			}
 		}
+
 	}
-	
-}
 }

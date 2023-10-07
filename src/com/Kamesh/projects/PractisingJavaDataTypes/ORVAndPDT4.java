@@ -1,26 +1,25 @@
 package com.Kamesh.projects.PractisingJavaDataTypes;
 
-public class ORVAndPDT4
-{
-	float m=240.24f;
-	double n=250.25;
-	char o='E';
-	boolean p=true;
-  public static void main(String[] args) 
-  {
-	 byte i=20;
-	 short j=210;
-	 long k=220;
-	 int l=230;
-	 System.out.println("Byte value :"+i);
-	 System.out.println("Short value:"+j);
-	 System.out.println("Long value:"+k);
-	 System.out.println("Integer value:"+l);
-	 
-	 ORVAndPDT4 o4=new ORVAndPDT4();
-	 System.out.println("Float value:"+o4.m);
-	 System.out.println("Double value:"+o4.n);
-	 System.out.println("Character value:"+o4.o);
-	 System.out.println("Boolean value:"+o4.p);
-  }
+public class ORVAndPDT4 {
+	float m = 240.24f;
+	double n = 250.25;
+	char o = 'E';
+	boolean p = true;
+
+	public static void main(String[] args) {
+		byte i = 20;
+		short j = 210;
+		long k = 220;
+		int l = 230;
+		System.out.println("Byte value :" + i);
+		System.out.println("Short value:" + j);
+		System.out.println("Long value:" + k);
+		System.out.println("Integer value:" + l);
+
+		ORVAndPDT4 o4 = new ORVAndPDT4();
+		System.out.println("Float value:" + o4.m);
+		System.out.println("Double value:" + o4.n);
+		System.out.println("Character value:" + o4.o);
+		System.out.println("Boolean value:" + o4.p);
+	}
 }

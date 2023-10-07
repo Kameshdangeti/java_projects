@@ -2,13 +2,11 @@
 
 package com.Kamesh.projects.Inheritance;
 
-public class ExtendableInterfaceMain 
-{
+public class ExtendableInterfaceMain {
 
-	  public static void main(String[] args)
-	  {
-		Demo d=new Demo();
+	public static void main(String[] args) {
+		Demo d = new Demo();
 		d.move();
 		d.move1();
-	  }
+	}
 }

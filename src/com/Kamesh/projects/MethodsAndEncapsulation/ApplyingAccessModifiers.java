@@ -5,14 +5,13 @@
 //Because then only we can know whether all the access modifiers can work out of the class or not.
 package com.Kamesh.projects.MethodsAndEncapsulation;
 
-public class ApplyingAccessModifiers 
-{
-	public int i=10;                 //public.
-	private double d=20.2;           //private.
-	protected char ch='K';           //Protected.
-	boolean b=false;                 //Default.
-	public static void main(String[] args) 
-	{
+public class ApplyingAccessModifiers {
+	public int i = 10; // public.
+	private double d = 20.2; // private.
+	protected char ch = 'K'; // Protected.
+	boolean b = false; // Default.
+
+	public static void main(String[] args) {
 		ApplyingAccessModifiers s1 = new ApplyingAccessModifiers();
 		System.out.println(s1.i);
 		System.out.println(s1.d);

@@ -1,4 +1,4 @@
-      //InputMisMatchedException
+//InputMisMatchedException
 /*package Exceptions;
 
 import java.util.Scanner;
@@ -20,22 +20,17 @@ package com.Kamesh.projects.Exception;
 
 import java.util.Scanner;
 
-public class InputMismatchedException 
-{
-	public static void main(String[] args) 
-	{
-		Scanner sc=new Scanner(System.in);
+public class InputMismatchedException {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the integer value :");
-		try
-		{
-		String n=sc.next();
-		System.out.println(n);
-		sc.close();
+		try {
+			String n = sc.next();
+			System.out.println(n);
+			sc.close();
+		} catch (Exception e) {
+			// TODO: handle exception
 		}
-	catch (Exception e)
-		{
-		// TODO: handle exception
-	}
 	}
 
 }

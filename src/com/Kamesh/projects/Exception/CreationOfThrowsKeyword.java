@@ -21,23 +21,18 @@ public static void laptop_brand()
 //but still there is an exception so, we use try and catch block to handle that.
 package com.Kamesh.projects.Exception;
 
-public class CreationOfThrowsKeyword 
-{
-	public static void laptop_brand() throws InterruptedException
-	{
+public class CreationOfThrowsKeyword {
+	public static void laptop_brand() throws InterruptedException {
 		System.out.println("Hp");
 		Thread.sleep(2000);
 		System.out.println("Dell");
 	}
-	public static void main(String[] args) 
-	{
-	   try 
-	   {
-		laptop_brand();
-	   } 
-	   catch (InterruptedException e)
-	   {
-		   System.out.println("Exception is Handled by using Throws and try and catch blocks.");
-	   }	
+
+	public static void main(String[] args) {
+		try {
+			laptop_brand();
+		} catch (InterruptedException e) {
+			System.out.println("Exception is Handled by using Throws and try and catch blocks.");
+		}
 	}
 }

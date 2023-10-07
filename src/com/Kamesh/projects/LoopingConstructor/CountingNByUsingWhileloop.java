@@ -2,25 +2,19 @@
 //Write a Program for checking whether the pincode is valid or not.
 package com.Kamesh.projects.LoopingConstructor;
 
-public class CountingNByUsingWhileloop 
-{
-	public static void main(String[] args)
-	{
-		int n=533401;
-		int count =0;
-		while (n!=0) 
-		{
-           @SuppressWarnings("unused")
-		int ld=n%10;
-           count++;
-           n=n/10;
+public class CountingNByUsingWhileloop {
+	public static void main(String[] args) {
+		int n = 533401;
+		int count = 0;
+		while (n != 0) {
+			@SuppressWarnings("unused")
+			int ld = n % 10;
+			count++;
+			n = n / 10;
 		}
-		if (count==6)
-		{
+		if (count == 6) {
 			System.out.println("The pin no is valid");
-		}
-		else
-		{
+		} else {
 			System.out.println("The pin no is not valid");
 		}
 	}
