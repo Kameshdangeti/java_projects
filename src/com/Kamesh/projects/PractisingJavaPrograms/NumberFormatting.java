@@ -20,5 +20,5 @@ public class NumberFormatting {
 		System.out.println("China: " + china.format(currency));
 		System.out.println("France: " + france.format(currency));
 	}
-
 }
+
