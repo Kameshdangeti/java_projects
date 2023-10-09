@@ -21,4 +21,3 @@ public class NumberFormatting {
 		System.out.println("France: " + france.format(currency));
 	}
 }
-
