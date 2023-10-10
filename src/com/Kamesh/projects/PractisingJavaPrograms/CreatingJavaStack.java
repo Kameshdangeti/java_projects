@@ -16,7 +16,7 @@ public class CreatingJavaStack {
 
 	public static boolean isBalanced(String s) {
 		Stack<Character> stack = new Stack<Character>();
-          System.out.println("Output :");
+		System.out.println("Output :");
 		for (int i = 0; i < s.length(); i++) {
 			char c = s.charAt(i);
 			if (c == '(' || c == '{' || c == '[') {
