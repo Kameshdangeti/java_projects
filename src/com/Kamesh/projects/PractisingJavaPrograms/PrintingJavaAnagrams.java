@@ -2,7 +2,7 @@ package com.Kamesh.projects.PractisingJavaPrograms;
 
 import java.util.Scanner;
 
-public class JavaAnagrams {
+public class PrintingJavaAnagrams {
 	static boolean isAnagram(String a, String b) {
 		if (a.length() != b.length())
 			return false;
